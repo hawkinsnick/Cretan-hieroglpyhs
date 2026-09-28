@@ -1,0 +1,36 @@
+{
+  "target_version": "4.1.0",
+  "state": "ACTIVE_EVIDENCE_CAMPAIGN",
+  "baseline": {
+    "catalogue_spine": 331,
+    "occurrence_source_checked": 0,
+    "independently_reviewed": 0
+  },
+  "pilot_thresholds": {
+    "occurrence_source_checked_objects": 25,
+    "independently_reviewed_objects": 10
+  },
+  "priority_sources": [
+    {
+      "source_id": "CHIC1996",
+      "role": "primary catalogue and transcription authority",
+      "rights": "no blanket redistribution assumed"
+    },
+    {
+      "source_id": "JASINK-BOMBARDIERI-CHS",
+      "role": "digital seal/context cross-check",
+      "rights": "drawings/photos personal/scientific/educational use; do not republish"
+    },
+    {
+      "source_id": "FERRARA-MONTECCHI-VALERIO-2021",
+      "role": "repertoire reassessment"
+    }
+  ],
+  "rules": [
+    "Store source-attributed assertions and locators, not protected facsimiles.",
+    "Preserve CHIC numbering.",
+    "Do not assign native phonetic values.",
+    "Repertoire disagreement remains explicit.",
+    "4.1 requires actual source-checked objects; architecture alone cannot satisfy the milestone."
+  ]
+}
