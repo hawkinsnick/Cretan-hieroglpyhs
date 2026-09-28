@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
+  "version": "1.0.0",
   "objects_total": 331,
   "objects_catalogue_spine": 331,
   "objects_partially_verified": 0,
@@ -12,5 +12,11 @@
     "Y": 16
   },
   "sign_registry_entries": 96,
-  "interpretation_policy": "No decipherment or cross-script identity inferred from catalogue inclusion."
+  "phonetic_values_asserted": 0,
+  "interpretation_policy": "No decipherment or cross-script identity inferred from catalogue inclusion.",
+  "coverage_dimensions": {
+    "catalogue": 1,
+    "source_checked_objects": 0,
+    "transcription": 0
+  }
 }

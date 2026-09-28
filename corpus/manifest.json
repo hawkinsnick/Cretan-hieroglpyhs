@@ -1,11 +1,13 @@
 {
   "corpus": "Cretan Hieroglyphic Open Corpus",
-  "version": "0.5.0",
+  "version": "1.0.0",
+  "stability": "stable",
   "canonical_catalogue": "CHIC1996",
   "catalogue_spine": {
     "first": 1,
     "last": 331,
-    "records": 331
+    "records": 331,
+    "unique_ids_required": true
   },
   "series_counts": {
     "H": 122,
@@ -19,5 +21,15 @@
     "numbered_core_entries": 96,
     "phonetic_values_asserted": 0
   },
-  "warning": "Catalogue-spine presence is not equivalent to full epigraphic verification or transcription coverage."
+  "interop": {
+    "schema": "aegean-interop-v0.1",
+    "native_identity_precedence": true
+  },
+  "release_invariants": [
+    "catalogue-coverage-is-not-transcription-coverage",
+    "unknown-values-are-not-inferred",
+    "cross-script-correspondence-is-a-claim",
+    "source-derived-data-requires-provenance"
+  ],
+  "warning": "1.0.0 stabilizes architecture and catalogue identity; it is not a claim of complete epigraphic transcription."
 }
