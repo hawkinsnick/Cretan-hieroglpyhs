@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "experiments": [
+    {
+      "experiment_id": "ch-structural-analysis-v1",
+      "state": "BLOCKED",
+      "prerequisites": [
+        {
+          "id": "verified_occurrence_corpus",
+          "satisfied": false,
+          "evidence": "0.1.0 contains architecture only; occurrence corpus not yet populated."
+        },
+        {
+          "id": "segmentation_policy_frozen",
+          "satisfied": false,
+          "evidence": "No universal word segmentation is assumed."
+        }
+      ],
+      "claim_allowed": false,
+      "result_ref": null
+    },
+    {
+      "experiment_id": "ch-linear-a-comparative-v1",
+      "state": "BLOCKED",
+      "prerequisites": [
+        {
+          "id": "ch_structural_baseline",
+          "satisfied": false,
+          "evidence": "Requires mature CH occurrence corpus and internal baseline."
+        },
+        {
+          "id": "script_neutral_algorithm_spec",
+          "satisfied": false,
+          "evidence": "Comparative algorithm must be frozen without sign-identity assumptions."
+        },
+        {
+          "id": "cross_script_hypotheses_separated",
+          "satisfied": true,
+          "evidence": "schemas/cross-script-claim.schema.json"
+        }
+      ],
+      "claim_allowed": false,
+      "result_ref": null
+    }
+  ]
+}
