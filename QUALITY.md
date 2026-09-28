@@ -1,11 +1,5 @@
-# Quality statement — 2.0.0
+# Quality statement — 3.0.0
 
-The 331-record CHIC catalogue spine and 96-entry core sign registry remain stable. Version 2 introduces auditable enrichment, not invented enrichment.
+3.0 raises the scholarly standard without inflating evidence counts. The canonical CHIC spine remains 331 objects. The 001–096 core registry is explicitly one published sign class rather than shorthand for the entire repertoire. Graph observation is separated from sign identification, sign from motif, historical CHIC classification from later reassessment, and CHIC records from post-CHIC extension material.
 
-## Current measured state
-Catalogue objects: 331. Metadata-checked: 0. Transcription-checked: 0. Occurrence-checked: 0. Independently reviewed: 0. Native phonetic values asserted: 0.
-
-## 2.0 invariants
-Evidence-stage advancement requires a verification event and sources. Disagreement is preserved as parallel positions. Derived data retain lineage. Cross-script correspondence cannot mutate native IDs. Coverage dimensions are reported independently. Release metadata and audit snapshots must agree.
-
-This intentionally conservative baseline lets future releases demonstrate real progress rather than hiding incompleteness behind a version number.
+Current source-checked enrichment counts remain zero until record-level evidence is actually encoded and verified. A 3.x enrichment release must cite exact source locations, preserve source lineage, avoid copyrighted reproduction without a documented basis, and update the audit from committed evidence.

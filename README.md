@@ -1,20 +1,9 @@
 # Cretan Hieroglyphic Open Corpus
 
-**2.0.0 — evidence-enrichment and audit platform**
+**3.0.0 — critical-edition and repertoire-reassessment foundation**
 
-A provenance-first research corpus for Cretan Hieroglyphic, designed for reproducible source checking and conservative comparison with Linear A, Cypro-Minoan and Linear B.
+A provenance-first, source-critical research corpus for Cretan Hieroglyphic. Version 3 extends the evidence platform to model the script as scholarship encounters it: canonical CHIC records, multiple sign classes, post-CHIC finds, competing sign identifications, repertoire reassessments, and explicit distinctions between inscription, graph, sign, motif, reading and interpretation.
 
-## What 2.0 adds
-The stable 1.0 catalogue/sign identity contract is retained. 2.0 adds a formal ingestion lifecycle, verification events, field-level evidence packets, disagreement sets, corpus audit snapshots, evidence-readiness gates, and explicit derived-data lineage.
+CHIC remains the canonical reference layer, not an infallible ontology. The 001–096 core series is retained without phonetic assignments, while logographic, fractional, numerical and punctuation classes are modeled separately. Post-CHIC finds never receive invented CHIC numbers. A graph is not automatically a linguistic sign; proposed identities and cross-script correspondences remain attributable claims.
 
-The corpus still distinguishes **coverage from verification**. All 331 CHIC catalogue identifiers are represented, while source-checked transcription/occurrence coverage remains whatever the committed audit actually demonstrates. No phonetic value is introduced by architecture or cross-script comparison.
-
-## Evidence lifecycle
-`catalogued → metadata-checked → transcription-checked → occurrence-checked → independently-reviewed`
-
-A record may advance only with attributable evidence. Later stages do not erase earlier source readings or disagreements.
-
-## Research family
-This repository remains independent from `hawkinsnick/Linear-A`, `hawkinsnick/Cypro-Minoan`, and `hawkinsnick/Linear-B`. Shared Aegean interoperability is a projection layer, never a reason to merge native identifiers.
-
-Primary catalogue reference: J.-P. Olivier and L. Godart, with J.-C. Poursat, *Corpus Hieroglyphicarum Inscriptionum Cretae*, Études Crétoises 31 (1996).
+The repository contains the 331-record CHIC catalogue spine and 96-entry numbered core registry. 3.0 adds source-critical machinery; it does not claim complete transcription of the CHIC edition.
