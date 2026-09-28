@@ -1,0 +1,6291 @@
+[
+  {
+    "id": "CHIC-001",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 1
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-002",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 2
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-003",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 3
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-004",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 4
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-005",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 5
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-006",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 6
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-007",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 7
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-008",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 8
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-009",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 9
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-010",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 10
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-011",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 11
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-012",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 12
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-013",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 13
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-014",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 14
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-015",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 15
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-016",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 16
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-017",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 17
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-018",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 18
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-019",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 19
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-020",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 20
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-021",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 21
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-022",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 22
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-023",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 23
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-024",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 24
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-025",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 25
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-026",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 26
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-027",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 27
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-028",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 28
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-029",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 29
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-030",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 30
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-031",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 31
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-032",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 32
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-033",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 33
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-034",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 34
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-035",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 35
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-036",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 36
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-037",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 37
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-038",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 38
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-039",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 39
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-040",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 40
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-041",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 41
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-042",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 42
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-043",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 43
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-044",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 44
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-045",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 45
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-046",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 46
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-047",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 47
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-048",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 48
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-049",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 49
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-050",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 50
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-051",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 51
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-052",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 52
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-053",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 53
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-054",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 54
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-055",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 55
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-056",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 56
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-057",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 57
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-058",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 58
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-059",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 59
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-060",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 60
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-061",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 61
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-062",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 62
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-063",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 63
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-064",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 64
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-065",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 65
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-066",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 66
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-067",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 67
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-068",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 68
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-069",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 69
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-070",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 70
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-071",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 71
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-072",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 72
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-073",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 73
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-074",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 74
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-075",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 75
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-076",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 76
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-077",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 77
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-078",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 78
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-079",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 79
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-080",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 80
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-081",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 81
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-082",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 82
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-083",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 83
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-084",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 84
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-085",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 85
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-086",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 86
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-087",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 87
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-088",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 88
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-089",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 89
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-090",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 90
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-091",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 91
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-092",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 92
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-093",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 93
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-094",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 94
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-095",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 95
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-096",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 96
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-097",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 97
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-098",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 98
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-099",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 99
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-100",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 100
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-101",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 101
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-102",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 102
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-103",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 103
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-104",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 104
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-105",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 105
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-106",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 106
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-107",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 107
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-108",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 108
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-109",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 109
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-110",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 110
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-111",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 111
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-112",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 112
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-113",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 113
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-114",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 114
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-115",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 115
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-116",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 116
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-117",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 117
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-118",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 118
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-119",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 119
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-120",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 120
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-121",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 121
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-122",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 122
+    },
+    "series": "H",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-123",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 123
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-124",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 124
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-125",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 125
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-126",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 126
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-127",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 127
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-128",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 128
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-129",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 129
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-130",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 130
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-131",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 131
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-132",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 132
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-133",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 133
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-134",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 134
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-135",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 135
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-136",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 136
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-137",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 137
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-138",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 138
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-139",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 139
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-140",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 140
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-141",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 141
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-142",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 142
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-143",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 143
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-144",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 144
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-145",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 145
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-146",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 146
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-147",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 147
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-148",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 148
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-149",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 149
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-150",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 150
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-151",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 151
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-152",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 152
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-153",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 153
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-154",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 154
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-155",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 155
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-156",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 156
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-157",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 157
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-158",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 158
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-159",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 159
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-160",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 160
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-161",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 161
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-162",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 162
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-163",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 163
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-164",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 164
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-165",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 165
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-166",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 166
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-167",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 167
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-168",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 168
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-169",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 169
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-170",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 170
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-171",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 171
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-172",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 172
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-173",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 173
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-174",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 174
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-175",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 175
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-176",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 176
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-177",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 177
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-178",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 178
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-179",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 179
+    },
+    "series": "I",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-180",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 180
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-181",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 181
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-182",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 182
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-183",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 183
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-184",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 184
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-185",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 185
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-186",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 186
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-187",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 187
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-188",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 188
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-189",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 189
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-190",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 190
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-191",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 191
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-192",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 192
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-193",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 193
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-194",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 194
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-195",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 195
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-196",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 196
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-197",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 197
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-198",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 198
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-199",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 199
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-200",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 200
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-201",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 201
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-202",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 202
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-203",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 203
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-204",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 204
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-205",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 205
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-206",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 206
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-207",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 207
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-208",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 208
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-209",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 209
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-210",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 210
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-211",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 211
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-212",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 212
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-213",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 213
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-214",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 214
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-215",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 215
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-216",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 216
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-217",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 217
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-218",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 218
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-219",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 219
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-220",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 220
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-221",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 221
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-222",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 222
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-223",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 223
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-224",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 224
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-225",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 225
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-226",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 226
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-227",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 227
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-228",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 228
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-229",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 229
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-230",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 230
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-231",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 231
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-232",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 232
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-233",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 233
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-234",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 234
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-235",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 235
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-236",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 236
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-237",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 237
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-238",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 238
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-239",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 239
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-240",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 240
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-241",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 241
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-242",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 242
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-243",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 243
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-244",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 244
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-245",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 245
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-246",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 246
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-247",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 247
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-248",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 248
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-249",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 249
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-250",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 250
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-251",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 251
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-252",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 252
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-253",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 253
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-254",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 254
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-255",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 255
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-256",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 256
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-257",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 257
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-258",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 258
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-259",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 259
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-260",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 260
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-261",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 261
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-262",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 262
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-263",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 263
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-264",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 264
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-265",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 265
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-266",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 266
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-267",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 267
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-268",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 268
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-269",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 269
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-270",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 270
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-271",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 271
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-272",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 272
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-273",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 273
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-274",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 274
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-275",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 275
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-276",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 276
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-277",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 277
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-278",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 278
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-279",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 279
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-280",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 280
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-281",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 281
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-282",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 282
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-283",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 283
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-284",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 284
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-285",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 285
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-286",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 286
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-287",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 287
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-288",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 288
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-289",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 289
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-290",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 290
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-291",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 291
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-292",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 292
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-293",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 293
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-294",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 294
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-295",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 295
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-296",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 296
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-297",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 297
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-298",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 298
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-299",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 299
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-300",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 300
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-301",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 301
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-302",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 302
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-303",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 303
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-304",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 304
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-305",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 305
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-306",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 306
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-307",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 307
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-308",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 308
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-309",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 309
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-310",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 310
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-311",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 311
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-312",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 312
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-313",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 313
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-314",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 314
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-315",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 315
+    },
+    "series": "S",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-316",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 316
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-317",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 317
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-318",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 318
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-319",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 319
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-320",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 320
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-321",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 321
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-322",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 322
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-323",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 323
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-324",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 324
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-325",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 325
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-326",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 326
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-327",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 327
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-328",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 328
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-329",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 329
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-330",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 330
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  },
+  {
+    "id": "CHIC-331",
+    "script": "Cretan Hieroglyphic",
+    "catalogue": {
+      "system": "CHIC",
+      "number": 331
+    },
+    "series": "Y",
+    "object_type": null,
+    "material": null,
+    "provenance_place": null,
+    "repository": null,
+    "inventory_number": null,
+    "chronology": null,
+    "source_ids": [
+      "CHIC1996"
+    ],
+    "data_status": "catalogue-spine"
+  }
+]

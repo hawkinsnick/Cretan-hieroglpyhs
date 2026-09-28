@@ -1,0 +1,23 @@
+{
+  "corpus": "Cretan Hieroglyphic Open Corpus",
+  "version": "0.5.0",
+  "canonical_catalogue": "CHIC1996",
+  "catalogue_spine": {
+    "first": 1,
+    "last": 331,
+    "records": 331
+  },
+  "series_counts": {
+    "H": 122,
+    "I": 57,
+    "S": 136,
+    "Y": 16
+  },
+  "transcription_records": 0,
+  "source_checked_full_records": 0,
+  "sign_registry": {
+    "numbered_core_entries": 96,
+    "phonetic_values_asserted": 0
+  },
+  "warning": "Catalogue-spine presence is not equivalent to full epigraphic verification or transcription coverage."
+}

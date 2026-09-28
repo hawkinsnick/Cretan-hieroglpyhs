@@ -1,0 +1,58 @@
+{
+  "document_series": {
+    "H": {
+      "label": "archives",
+      "range": [
+        1,
+        122
+      ]
+    },
+    "I": {
+      "label": "seal impressions",
+      "range": [
+        123,
+        179
+      ]
+    },
+    "S": {
+      "label": "seals",
+      "range": [
+        180,
+        315
+      ]
+    },
+    "Y": {
+      "label": "other documents",
+      "range": [
+        316,
+        331
+      ]
+    }
+  },
+  "certainty": [
+    "secure",
+    "probable",
+    "uncertain",
+    "illegible",
+    "unsegmented"
+  ],
+  "material": [
+    "clay",
+    "stone",
+    "metal",
+    "other",
+    "unknown"
+  ],
+  "object_type": [
+    "tablet",
+    "bar",
+    "medallion",
+    "nodule",
+    "cone",
+    "seal",
+    "seal-impression",
+    "vessel",
+    "other",
+    "unknown"
+  ]
+}

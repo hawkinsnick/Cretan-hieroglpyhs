@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CHIC1996",
+    "type": "book",
+    "authors": [
+      "Jean-Pierre Olivier",
+      "Louis Godart"
+    ],
+    "contributors": [
+      "Jean-Claude Poursat"
+    ],
+    "title": "Corpus Hieroglyphicarum Inscriptionum Cretae",
+    "series": "Études Crétoises 31",
+    "year": 1996,
+    "publisher": "École française d’Athènes / École française de Rome",
+    "isbn": "978-2-86958-082-4",
+    "role": "primary-catalogue"
+  },
+  {
+    "id": "EFA-CHIC",
+    "type": "publisher-record",
+    "title": "Corpus Hieroglyphicarum Inscriptionum Cretae",
+    "publisher": "École française d’Athènes",
+    "role": "bibliographic-verification"
+  }
+]

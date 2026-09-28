@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "dataset": "corpus/chic-catalogue-spine.json",
+    "source_id": "CHIC1996",
+    "scope": "catalogue existence, numbering and series assignment",
+    "status": "source-derived-spine"
+  },
+  {
+    "dataset": "signs/chic-core-sign-registry.json",
+    "source_id": "CHIC1996",
+    "scope": "numbered core sign inventory only; no phonetic values asserted",
+    "status": "source-derived-spine"
+  }
+]

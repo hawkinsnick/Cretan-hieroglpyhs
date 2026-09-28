@@ -1,0 +1,312 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cretan Hieroglyphic native corpus models",
+  "$defs": {
+    "object": {
+      "type": "object",
+      "required": [
+        "id",
+        "script",
+        "catalogue",
+        "series",
+        "data_status"
+      ],
+      "properties": {
+        "id": {
+          "pattern": "^CHIC-[0-9]{3}$"
+        },
+        "script": {
+          "const": "Cretan Hieroglyphic"
+        },
+        "catalogue": {
+          "type": "object",
+          "required": [
+            "system",
+            "number"
+          ],
+          "properties": {
+            "system": {
+              "const": "CHIC"
+            },
+            "number": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 331
+            }
+          }
+        },
+        "series": {
+          "enum": [
+            "H",
+            "I",
+            "S",
+            "Y"
+          ]
+        },
+        "object_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "material": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "provenance_place": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "repository": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "inventory_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "chronology": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "data_status": {
+          "enum": [
+            "catalogue-spine",
+            "partially-verified",
+            "source-checked"
+          ]
+        }
+      }
+    },
+    "surface": {
+      "type": "object",
+      "required": [
+        "id",
+        "object_id",
+        "label"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "object_id": {
+          "pattern": "^CHIC-[0-9]{3}$"
+        },
+        "label": {
+          "type": "string"
+        },
+        "sequence": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "occurrence": {
+      "type": "object",
+      "required": [
+        "id",
+        "surface_id",
+        "sequence",
+        "certainty"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "surface_id": {
+          "type": "string"
+        },
+        "sequence": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "sign_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_form": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "certainty": {
+          "enum": [
+            "secure",
+            "probable",
+            "uncertain",
+            "illegible",
+            "unsegmented"
+          ]
+        },
+        "damage": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "transcription": {
+      "type": "object",
+      "required": [
+        "id",
+        "object_id",
+        "kind",
+        "content",
+        "responsibility"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "object_id": {
+          "pattern": "^CHIC-[0-9]{3}$"
+        },
+        "kind": {
+          "enum": [
+            "diplomatic",
+            "normalized",
+            "secondary"
+          ]
+        },
+        "content": {
+          "type": "string"
+        },
+        "direction": {
+          "enum": [
+            "left-to-right",
+            "right-to-left",
+            "uncertain",
+            "not-applicable"
+          ]
+        },
+        "responsibility": {
+          "type": "string"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "sign": {
+      "type": "object",
+      "required": [
+        "id",
+        "system",
+        "number",
+        "status",
+        "source_ids"
+      ],
+      "properties": {
+        "id": {
+          "pattern": "^CH-SIGN-[0-9]{3}$"
+        },
+        "system": {
+          "const": "CHIC"
+        },
+        "number": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "status": {
+          "enum": [
+            "catalogued",
+            "disputed",
+            "deprecated",
+            "provisional"
+          ]
+        },
+        "functional_class": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "phonetic_value": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "crosswalk": {
+      "type": "object",
+      "required": [
+        "object_id",
+        "external_system",
+        "external_id",
+        "relation",
+        "source_ids"
+      ],
+      "properties": {
+        "object_id": {
+          "pattern": "^CHIC-[0-9]{3}$"
+        },
+        "external_system": {
+          "type": "string"
+        },
+        "external_id": {
+          "type": "string"
+        },
+        "relation": {
+          "enum": [
+            "same-object",
+            "same-inscription",
+            "related",
+            "uncertain"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
