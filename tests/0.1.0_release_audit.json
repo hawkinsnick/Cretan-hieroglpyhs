@@ -1,0 +1,26 @@
+{
+  "passed": 20,
+  "total": 20,
+  "checks": {
+    "version": true,
+    "scope_bounded": true,
+    "ethics": true,
+    "rights": true,
+    "evidence_layer": true,
+    "witness_layer": true,
+    "research_layer": true,
+    "interchange_layer": true,
+    "assertion_schema": true,
+    "inscription_schema": true,
+    "source_lineage": true,
+    "cross_script_claim_schema": true,
+    "cross_script_nontransitive": true,
+    "no_universal_word": true,
+    "no_linear_a_sign_identity_import": true,
+    "experiment_gates_blocked": true,
+    "no_structural_result": true,
+    "no_comparative_result": true,
+    "no_decipherment_claim": true,
+    "three_project_alignment": true
+  }
+}
