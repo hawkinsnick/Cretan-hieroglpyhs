@@ -1,7 +1,7 @@
-# Quality statement — 4.0.1
+# Quality statement — 5.0.0
 
-4.0.1 is a corrective integrity release. It repairs the 4.0 release-gate and research-readiness schema contracts, adds executable validation and CI, tightens rights metadata, and adds reproducible SHA-256 manifest generation.
+5.0 stabilizes the production rules for a critical corpus without inflating evidentiary coverage. Catalogue identity remains 331 records; the numbered core registry remains 96; native phonetic assignments remain zero.
 
-Evidence is unchanged: 331 CHIC catalogue-spine records; 96 numbered core entries; zero asserted native phonetic values; zero source-checked metadata, transcription, occurrence or independent-review enrichment. Both research experiments remain BLOCKED.
+New quality controls require exact source locators for source-checked readings, distinguish source accessibility from redistribution permission, preserve competing readings, and freeze corpus snapshots used by research analyses.
 
-Passing software integrity establishes consistency, not a decipherment, transcription, sign interpretation or scholarly validation.
+Current critical-reading, occurrence-check and independent-review counts are zero. This release therefore improves the reliability of future enrichment rather than claiming enrichment that has not happened.

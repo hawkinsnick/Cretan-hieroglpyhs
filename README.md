@@ -1,11 +1,11 @@
 # Cretan Hieroglyphic Open Corpus
 
-**4.0.1 — executable integrity and rights correction**
+**5.0.0 — critical corpus production contract**
 
 A provenance-first, source-critical and reproducible research corpus for Cretan Hieroglyphic.
 
-4.0.1 repairs schema/artifact mismatches in release gates and research readiness, adds executable validation and CI, adds reproducible manifest hashing, clarifies software versus third-party scholarly rights, and documents intentionally inherited artifact versions. It adds no epigraphic enrichment or scientific result.
+5.0 turns the mature 4.x engineering platform into a stable production contract for inscription-level critical evidence. It adds exact-locator critical readings, source-access and redistribution controls, versioned corpus snapshots, explicit research boundaries and compatibility with the cross-project matched-information-environment protocol.
 
-The foundation remains 331 CHIC catalogue-spine records and a 96-entry numbered core registry within a broader multi-class/multi-repertoire model. No native phonetic values are asserted. Source-checked metadata, transcription, occurrence and independent-review coverage remain zero.
+The foundation remains 331 CHIC catalogue-spine records and a 96-entry numbered core registry inside the broader multi-repertoire model. No native phonetic values are asserted. Critical readings, source-checked occurrences and independent reviews remain zero until actual evidence is responsibly encoded.
 
-Both CH internal structural analysis and CH–Linear A comparative analysis remain **BLOCKED**. The next progress metric is responsibly source-checked corpus coverage, not version count.
+**Blocked is a valid scientific result.** Internal structural analysis, CH–Linear A comparison and fine matched-degradation experiments remain blocked by their predeclared evidence requirements.
