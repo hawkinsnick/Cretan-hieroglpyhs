@@ -1,0 +1,15 @@
+{
+  "contract_version": "1.0",
+  "repository": "hawkinsnick/Cretan-hieroglpyhs",
+  "repository_version": "4.0.2",
+  "script": "cretan-hieroglyphic",
+  "dimensions": {
+    "architecture": "STABLE",
+    "authenticated_evidence": "CATALOGUE_SPINE_ONLY",
+    "source_checked_coverage": "0_SOURCE_CHECKED_OCCURRENCES",
+    "executed_analysis": "BLOCKED",
+    "external_control_validation": "BLOCKED",
+    "rights_provenance": "MATURE"
+  },
+  "global_ready_claim": false
+}
