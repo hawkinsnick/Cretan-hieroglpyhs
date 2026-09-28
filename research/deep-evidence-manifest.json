@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "project": "Cretan Hieroglyphic",
+  "target_milestone": "4.1.0",
+  "principle": "A milestone is earned by new verified evidence, an executed falsifiable experiment, or an independently auditable control.",
+  "blockers": [
+    {
+      "id": "SOURCE_CHECKED_OBJECTS",
+      "state": "0/25"
+    },
+    {
+      "id": "INDEPENDENT_REVIEW",
+      "state": "0/10"
+    }
+  ],
+  "unlock_conditions": [
+    "25 objects occurrence-source-checked",
+    "10 independently reviewed",
+    "exact locators retained",
+    "no protected imagery redistributed",
+    "pilot algorithm remains frozen before execution"
+  ],
+  "claim_policy": {
+    "blocked_means_no_positive_claim": true,
+    "null_results_preserved": true,
+    "source_locator_required": true,
+    "rights_follow_data": true
+  }
+}

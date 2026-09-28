@@ -1,0 +1,42 @@
+{
+  "version": "4.0.4",
+  "strategy": "stratified first cohort rather than convenience sample",
+  "strata": [
+    {
+      "series": "H",
+      "role": "hieroglyphic documents",
+      "target_min": 8
+    },
+    {
+      "series": "I",
+      "role": "seal impressions",
+      "target_min": 5
+    },
+    {
+      "series": "S",
+      "role": "seals",
+      "target_min": 8
+    },
+    {
+      "series": "Y",
+      "role": "miscellaneous/other CHIC series",
+      "target_min": 4
+    }
+  ],
+  "sources": [
+    {
+      "id": "CHIC1996",
+      "role": "primary catalogue/transcription witness"
+    },
+    {
+      "id": "JASINK-BOMBARDIERI-CHS",
+      "role": "seal provenance/context/material/shape/sign-position cross-check",
+      "rights": "assertions and locators only; do not republish restricted drawings/photos"
+    },
+    {
+      "id": "FERRARA-MONTECCHI-VALERIO-2021",
+      "role": "sign-repertoire disagreement/reassessment witness"
+    }
+  ],
+  "review_rule": "Independent review means a second evidence pass, not a second digital copy of the same assertion."
+}
