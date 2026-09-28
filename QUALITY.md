@@ -1,18 +1,11 @@
-# Quality statement — 1.0.0
+# Quality statement — 2.0.0
 
-## What is complete
-The CHIC 1996 catalogue-number spine is represented from 001 through 331 with unique canonical IDs and series assignments. The numbered core-sign registry contains 96 entries.
+The 331-record CHIC catalogue spine and 96-entry core sign registry remain stable. Version 2 introduces auditable enrichment, not invented enrichment.
 
-## What is not complete
-This release does not claim complete transcriptions, sign occurrences, archaeological metadata, museum concordances, bibliography per object, images, or independent verification of every inscription record. Those dimensions are measured separately and must never be inferred from catalogue coverage.
+## Current measured state
+Catalogue objects: 331. Metadata-checked: 0. Transcription-checked: 0. Occurrence-checked: 0. Independently reviewed: 0. Native phonetic values asserted: 0.
 
-## Release invariants
-- 331 unique object IDs and catalogue numbers.
-- Series counts: H 122; I 57; S 136; Y 16.
-- 96 unique core sign IDs/numbers.
-- Zero native phonetic values asserted.
-- Zero source-checked transcriptions claimed unless such records actually exist.
-- Every future source-derived datum must be attributable.
-- Cross-script equivalence cannot mutate native identifiers.
+## 2.0 invariants
+Evidence-stage advancement requires a verification event and sources. Disagreement is preserved as parallel positions. Derived data retain lineage. Cross-script correspondence cannot mutate native IDs. Coverage dimensions are reported independently. Release metadata and audit snapshots must agree.
 
-Any release violating these invariants requires an explicit schema/data migration and documented rationale.
+This intentionally conservative baseline lets future releases demonstrate real progress rather than hiding incompleteness behind a version number.

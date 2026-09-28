@@ -1,5 +1,6 @@
 {
-  "version": "0.1.0",
+  "version": "2.0.0",
+  "policy": "Analytical readiness follows committed evidence, not release number.",
   "experiments": [
     {
       "experiment_id": "ch-structural-analysis-v1",
@@ -8,12 +9,17 @@
         {
           "id": "verified_occurrence_corpus",
           "satisfied": false,
-          "evidence": "0.1.0 contains architecture only; occurrence corpus not yet populated."
+          "evidence": "2.0 provides the workflow and schemas; occurrence-level evidence has not yet reached the declared threshold."
         },
         {
           "id": "segmentation_policy_frozen",
-          "satisfied": false,
-          "evidence": "No universal word segmentation is assumed."
+          "satisfied": true,
+          "evidence": "docs/CORPUS_MODEL.md and docs/INGESTION_WORKFLOW.md preserve source-specific/competing segmentation."
+        },
+        {
+          "id": "audit_snapshot_available",
+          "satisfied": true,
+          "evidence": "analysis/audit-2.0.0.json"
         }
       ],
       "claim_allowed": false,
@@ -26,17 +32,17 @@
         {
           "id": "ch_structural_baseline",
           "satisfied": false,
-          "evidence": "Requires mature CH occurrence corpus and internal baseline."
+          "evidence": "Requires a mature source-checked CH occurrence corpus."
         },
         {
           "id": "script_neutral_algorithm_spec",
           "satisfied": false,
-          "evidence": "Comparative algorithm must be frozen without sign-identity assumptions."
+          "evidence": "Algorithm specification must be frozen before comparative testing."
         },
         {
           "id": "cross_script_hypotheses_separated",
           "satisfied": true,
-          "evidence": "schemas/cross-script-claim.schema.json"
+          "evidence": "schemas/cross-script-claim.schema.json and docs/INTEROPERABILITY.md"
         }
       ],
       "claim_allowed": false,

@@ -1,0 +1,38 @@
+{
+  "version": "2.0.0",
+  "objects": {
+    "catalogue_spine": 331,
+    "metadata_checked": 0,
+    "transcription_checked": 0,
+    "occurrence_checked": 0,
+    "independently_reviewed": 0,
+    "series": {
+      "H": 122,
+      "I": 57,
+      "S": 136,
+      "Y": 16
+    }
+  },
+  "signs": {
+    "core_registry": 96,
+    "phonetic_values_asserted": 0
+  },
+  "verification": {
+    "evidence_packets": 0,
+    "verification_events": 0,
+    "disagreement_sets": 0
+  },
+  "integrity": {
+    "canonical_id_contract": "active",
+    "catalogue_transcription_separation": "active",
+    "cross_script_native_identity_protection": "active",
+    "provenance_requirement": "active",
+    "release_metadata_synchronized": true
+  },
+  "generated_from": [
+    "corpus/chic-catalogue-spine.json",
+    "signs/chic-core-sign-registry.json",
+    "corpus/manifest.json"
+  ],
+  "note": "Zero enriched records is reported explicitly; 2.0 establishes the audited enrichment machinery and does not fabricate source-checked content."
+}

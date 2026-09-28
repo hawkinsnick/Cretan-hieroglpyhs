@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Corpus audit snapshot v2",
+  "type": "object",
+  "required": [
+    "version",
+    "objects",
+    "signs",
+    "verification",
+    "integrity"
+  ],
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "objects": {
+      "type": "object"
+    },
+    "signs": {
+      "type": "object"
+    },
+    "verification": {
+      "type": "object"
+    },
+    "integrity": {
+      "type": "object"
+    },
+    "generated_from": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}

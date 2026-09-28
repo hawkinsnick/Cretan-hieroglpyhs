@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Evidence packet v2",
+  "type": "object",
+  "required": [
+    "packet_id",
+    "object_id",
+    "stage",
+    "evidence",
+    "review_status"
+  ],
+  "properties": {
+    "packet_id": {
+      "type": "string"
+    },
+    "object_id": {
+      "pattern": "^CHIC-[0-9]{3}$"
+    },
+    "stage": {
+      "enum": [
+        "catalogued",
+        "metadata-checked",
+        "transcription-checked",
+        "occurrence-checked",
+        "independently-reviewed"
+      ]
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "field",
+          "source_id",
+          "locator",
+          "value_status"
+        ],
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "source_id": {
+            "type": "string"
+          },
+          "locator": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "value_status": {
+            "enum": [
+              "observed",
+              "transcribed",
+              "normalized",
+              "derived",
+              "disputed"
+            ]
+          },
+          "note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "review_status": {
+      "enum": [
+        "unreviewed",
+        "self-checked",
+        "independently-reviewed",
+        "needs-resolution"
+      ]
+    },
+    "reviewers": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "supersedes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
