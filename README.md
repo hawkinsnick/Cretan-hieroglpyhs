@@ -1,9 +1,22 @@
 # Cretan Hieroglyphic Open Corpus
 
-**3.0.0 — critical-edition and repertoire-reassessment foundation**
+**4.0.0 — reproducible corpus engineering and research-readiness gates**
 
-A provenance-first, source-critical research corpus for Cretan Hieroglyphic. Version 3 extends the evidence platform to model the script as scholarship encounters it: canonical CHIC records, multiple sign classes, post-CHIC finds, competing sign identifications, repertoire reassessments, and explicit distinctions between inscription, graph, sign, motif, reading and interpretation.
+A provenance-first, source-critical and reproducible research corpus for Cretan Hieroglyphic.
 
-CHIC remains the canonical reference layer, not an infallible ontology. The 001–096 core series is retained without phonetic assignments, while logographic, fractional, numerical and punctuation classes are modeled separately. Post-CHIC finds never receive invented CHIC numbers. A graph is not automatically a linguistic sign; proposed identities and cross-script correspondences remain attributable claims.
+Version 4 turns the scholarly safeguards developed in 1.0–3.0 into auditable release contracts. Catalogue coverage, metadata verification, transcription verification, occurrence verification and independent review are separate measurable dimensions. Release-version drift is a hard failure. Research analyses have explicit readiness thresholds. Reproducibility never substitutes for evidential validity.
 
-The repository contains the 331-record CHIC catalogue spine and 96-entry numbered core registry. 3.0 adds source-critical machinery; it does not claim complete transcription of the CHIC edition.
+The stable corpus foundation remains 331 CHIC catalogue records and a 96-entry numbered core registry within a broader multi-class/multi-repertoire model. No native phonetic values are asserted. Source-checked enrichment remains at zero until actual record-level evidence is committed.
+
+## 4.0 contract
+- synchronized VERSION, citation, manifest, audit and gate metadata;
+- machine-readable release gates and coverage matrix;
+- research-readiness thresholds;
+- independent-review protocol;
+- reproducibility requirements for derived results;
+- CHIC/post-CHIC identity separation;
+- graph/sign/motif and observation/interpretation separation;
+- source lineage and disagreement preservation;
+- cross-script non-transitivity.
+
+The next progress metric is no longer version count. It is responsibly source-checked corpus coverage.

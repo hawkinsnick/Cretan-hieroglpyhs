@@ -1,5 +1,7 @@
-# Quality statement — 3.0.0
+# Quality statement — 4.0.0
 
-3.0 raises the scholarly standard without inflating evidence counts. The canonical CHIC spine remains 331 objects. The 001–096 core registry is explicitly one published sign class rather than shorthand for the entire repertoire. Graph observation is separated from sign identification, sign from motif, historical CHIC classification from later reassessment, and CHIC records from post-CHIC extension material.
+4.0 makes quality claims auditable. The release gate snapshot passes the architectural/data invariants currently measurable from committed records: 331 catalogue objects, H/I/S/Y counts of 122/57/136/16, 96 numbered core entries, zero asserted native phonetic values, synchronized 4.0 release metadata, and zero falsely claimed verified enrichment.
 
-Current source-checked enrichment counts remain zero until record-level evidence is actually encoded and verified. A 3.x enrichment release must cite exact source locations, preserve source lineage, avoid copyrighted reproduction without a documented basis, and update the audit from committed evidence.
+Coverage is multidimensional. Catalogue coverage is 331/331; metadata, transcription, occurrence and independent-review coverage are currently 0/331. These zeros are intentionally visible.
+
+Research-readiness thresholds are predeclared to reduce moving-goalpost bias. Passing a threshold permits a specified analysis; it does not establish the truth of a reading, linguistic affiliation or decipherment.

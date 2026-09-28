@@ -1,9 +1,9 @@
-# Validation and release gates
+# Validation and release gates — 4.0
 
-Required checks: unique canonical IDs; CHIC catalogue range 001–331; H/I/S/Y range consistency; no orphan surfaces/occurrences; source referential integrity; controlled uncertainty values; cross-script equivalence only as claims; reproducible manifest counts.
+A release is valid only when machine-readable evidence and human-facing claims agree.
 
-A release may claim catalogue coverage only for represented identifiers and transcription coverage only for source-checked transcription records.
+Hard gates: unique CHIC IDs 001–331; H/I/S/Y ranges and counts; unique core sign IDs; no native phonetic values introduced without sourced CH-specific assertions; no orphan child records; all referenced source IDs resolve; post-CHIC objects never receive invented CHIC numbers; graph observation remains separable from sign identification; cross-script claims never mutate native identity; VERSION/CITATION/manifest/audit/gates share the release version.
 
-Expected 0.5.0: 331 catalogue objects; H=122, I=57, S=136, Y=16; 96 numbered core sign entries; 0 asserted phonetic values; 0 source-checked transcriptions.
+Coverage gates are dimensional. Catalogue, metadata, transcription, occurrence and independent-review coverage are reported separately. Zero is a valid result. Missing measurement is not silently converted to zero.
 
-Catalogue-spine coverage is explicitly not full epigraphic coverage.
+Research analyses may define quantitative readiness thresholds, but crossing a threshold permits analysis rather than validating a decipherment claim.
