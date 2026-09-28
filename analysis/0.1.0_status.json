@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "release_state": "EVIDENCE_ARCHITECTURE_FOUNDATION",
+  "primary_role": "nearby_undeciphered_comparative_corpus",
+  "aligned_projects": [
+    "hawkinsnick/Linear-A",
+    "hawkinsnick/Cypro-Minoan",
+    "hawkinsnick/Linear-B"
+  ],
+  "interchange": "Aegean Epigraphy Interchange v0.1",
+  "inscription_records": 0,
+  "occurrence_records": 0,
+  "cross_script_claims": 0,
+  "structural_analysis_result": null,
+  "linear_a_comparative_result": null,
+  "decipherment_claim": false,
+  "comprehensive_corpus_claim": false
+}
