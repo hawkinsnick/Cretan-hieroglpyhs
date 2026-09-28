@@ -1,7 +1,7 @@
-# Quality statement — 4.0.0
+# Quality statement — 4.0.1
 
-4.0 makes quality claims auditable. The release gate snapshot passes the architectural/data invariants currently measurable from committed records: 331 catalogue objects, H/I/S/Y counts of 122/57/136/16, 96 numbered core entries, zero asserted native phonetic values, synchronized 4.0 release metadata, and zero falsely claimed verified enrichment.
+4.0.1 is a corrective integrity release. It repairs the 4.0 release-gate and research-readiness schema contracts, adds executable validation and CI, tightens rights metadata, and adds reproducible SHA-256 manifest generation.
 
-Coverage is multidimensional. Catalogue coverage is 331/331; metadata, transcription, occurrence and independent-review coverage are currently 0/331. These zeros are intentionally visible.
+Evidence is unchanged: 331 CHIC catalogue-spine records; 96 numbered core entries; zero asserted native phonetic values; zero source-checked metadata, transcription, occurrence or independent-review enrichment. Both research experiments remain BLOCKED.
 
-Research-readiness thresholds are predeclared to reduce moving-goalpost bias. Passing a threshold permits a specified analysis; it does not establish the truth of a reading, linguistic affiliation or decipherment.
+Passing software integrity establishes consistency, not a decipherment, transcription, sign interpretation or scholarly validation.

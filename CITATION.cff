@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this project, cite the project release and upstream scholarship materially used."
+message: "If you use this project, cite the project release and upstream scholarship materially used. MIT applies to project-authored software; third-party scholarly content retains its own rights."
 title: "Cretan Hieroglyphic Open Corpus"
 type: dataset
-version: 4.0.0
+version: 4.0.1
 date-released: 2026-09-28
 license: MIT
 repository-code: "https://github.com/hawkinsnick/Cretan-hieroglpyhs"
