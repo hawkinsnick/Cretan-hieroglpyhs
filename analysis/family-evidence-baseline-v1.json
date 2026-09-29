@@ -1,0 +1,39 @@
+{
+  "step": "2.5",
+  "name": "family-evidence-baseline-v1",
+  "version": "5.1.1",
+  "state": "BASELINE_FROZEN_EVIDENCE_BLOCKED",
+  "metrics": {
+    "catalogue_spine": {
+      "value": 331,
+      "status": "measured"
+    },
+    "critical_readings": {
+      "value": 0,
+      "status": "measured"
+    },
+    "source_checked_occurrence_objects": {
+      "value": 0,
+      "status": "measured"
+    },
+    "independently_reviewed_objects": {
+      "value": 0,
+      "status": "measured"
+    },
+    "sign_density": {
+      "status": "unknown"
+    }
+  },
+  "rules": [
+    "Unknown is not zero.",
+    "Bounded is not complete.",
+    "Catalogue presence is not transcription coverage.",
+    "Only definition-compatible measured dimensions may be compared.",
+    "Source lineage and rights survive derived exports."
+  ],
+  "acquisition_queue": [
+    "Verify metadata across a balanced H/I/S/Y tranche with exact source locators.",
+    "Encode rights-safe diplomatic/critical readings without mirroring protected facsimiles or substantial edition text.",
+    "Derive graph/sign occurrences only from checked readings; then seek independent review."
+  ]
+}
