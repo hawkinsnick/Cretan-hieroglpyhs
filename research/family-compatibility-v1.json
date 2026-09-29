@@ -1,0 +1,25 @@
+{
+  "contract_version": "1.0.0",
+  "family": "Aegean corpus research family",
+  "members": [
+    "linear-a",
+    "cypro-minoan",
+    "cretan-hieroglyphic",
+    "linear-b"
+  ],
+  "member": "Cretan-hieroglpyhs",
+  "member_version": "5.2.0",
+  "native_state": "READY_FOR_SOURCE_BACKED_PILOT",
+  "invariants": [
+    "Native corpus evidence remains authoritative.",
+    "Observation, normalization, interpretation and cross-script claims remain distinct.",
+    "Unknown values are never imputed solely to satisfy comparison or schema completeness.",
+    "Cross-corpus metrics require compatible definitions and provenance.",
+    "Cross-script relationships are explicit non-transitive claims, never shared native identifiers.",
+    "Rights and redistribution constraints survive exports.",
+    "Blocked and negative outcomes are publishable results.",
+    "Family releases check all member repositories for compatibility; version numbers need not match."
+  ],
+  "next_action": "Populate a balanced H/I/S/Y metadata tranche, then exact-locator readings where rights permit.",
+  "blocked_claim": "Occurrence statistics remain blocked until checked readings exist."
+}
