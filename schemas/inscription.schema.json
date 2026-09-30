@@ -1,1 +1,117 @@
-{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"Cretan Hieroglyphic inscription/object record","type":"object","required":["id","record_version","identifiers","assertions","representations","rights"],"properties":{"id":{"type":"string","pattern":"^CHOC-[0-9]{4,}$"},"record_version":{"type":"string"},"identifiers":{"type":"array","items":{"type":"object","required":["system","value","source_id"],"properties":{"system":{"type":"string"},"value":{"type":"string"},"source_id":{"type":"string"}},"additionalProperties":false}},"object":{"type":"object"},"assertions":{"type":"array","items":{"$ref":"assertion.schema.json"}},"representations":{"type":"array","items":{"type":"object","required":["representation_type","status","source_id"],"properties":{"representation_type":{"enum":["transcription","segmentation","drawing_reference","image_reference","normalization"]},"status":{"enum":["published","independent_observation","project_derived"]},"source_id":{"type":"string"},"locator":{"type":["string","null"]},"content":{},"notes":{"type":"string"}},"additionalProperties":false}},"rights":{"type":"object","required":["record_license","third_party_material"],"properties":{"record_license":{"type":"string"},"third_party_material":{"type":"array","items":{"type":"object"}},"additionalProperties":false}},"additionalProperties":false}
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cretan Hieroglyphic inscription/object record",
+  "type": "object",
+  "required": [
+    "id",
+    "record_version",
+    "identifiers",
+    "assertions",
+    "representations",
+    "rights"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^CHOC-[0-9]{4,}$"
+    },
+    "record_version": {
+      "type": "string"
+    },
+    "identifiers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "system",
+          "value",
+          "source_id"
+        ],
+        "properties": {
+          "system": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string"
+          },
+          "source_id": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "object": {
+      "type": "object"
+    },
+    "assertions": {
+      "type": "array",
+      "items": {
+        "$ref": "assertion.schema.json"
+      }
+    },
+    "representations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "representation_type",
+          "status",
+          "source_id"
+        ],
+        "properties": {
+          "representation_type": {
+            "enum": [
+              "transcription",
+              "segmentation",
+              "drawing_reference",
+              "image_reference",
+              "normalization"
+            ]
+          },
+          "status": {
+            "enum": [
+              "published",
+              "independent_observation",
+              "project_derived"
+            ]
+          },
+          "source_id": {
+            "type": "string"
+          },
+          "locator": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "content": {},
+          "notes": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "rights": {
+      "type": "object",
+      "required": [
+        "record_license",
+        "third_party_material"
+      ],
+      "properties": {
+        "record_license": {
+          "type": "string"
+        },
+        "third_party_material": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

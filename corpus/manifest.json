@@ -1,6 +1,6 @@
 {
   "corpus": "Cretan Hieroglyphic Open Corpus",
-  "version": "5.1.1",
+  "version": "5.2.2",
   "stability": "critical-corpus-production",
   "canonical_catalogue": "CHIC1996",
   "catalogue_spine": {
@@ -19,7 +19,7 @@
   "snapshot": "analysis/corpus-snapshot-5.0.0.json",
   "source_access": "bibliography/source-access.json",
   "research_boundaries": "docs/RESEARCH_BOUNDARIES.md",
-  "warning": "5.1.1 freezes the family evidence baseline; historical 5.0 snapshots remain immutable and evidence counts advance only through checked, attributable records.",
+  "warning": "Current manifest counts committed native evidence; historical audit snapshots retain their original versions.",
   "family_evidence_baseline": "analysis/family-evidence-baseline-v1.json",
   "representative_pilot": "research/representative-pilot-step2.json"
 }

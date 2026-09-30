@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "repository_version": "5.2.2",
+  "checked": "2026-09-30",
+  "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
+  "committed_evidence_counts": {
+    "catalogue_identities": 331,
+    "critical_readings": 0
+  },
+  "scientific_results": {
+    "structural_analysis": "BLOCKED",
+    "comparative_analysis": "BLOCKED"
+  },
+  "evidence": [
+    {
+      "path": "research/experiment-gates.json",
+      "sha256": "97e7a32284023187c6c0039df917fed4357c8f125baa27343eccfde840f16e83"
+    },
+    {
+      "path": "corpus/manifest.json",
+      "sha256": "dcb38542b9aca9fdde5d361455f88ded26cb3bc4481c94be70515645190b83ce"
+    },
+    {
+      "path": "analysis/5.2.1_source-access-audit.json",
+      "sha256": "becb3713b1645d3027346e0d85f5c492f43d54c2afb86290e9d6db7427556b07"
+    }
+  ],
+  "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
+  "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
+  "summary": "331 catalogue identities, 96 sign registry entries, zero critical readings and zero source-checked occurrence objects. DBAS metadata/rights boundaries are documented; structural and comparative experiments remain blocked."
+}
