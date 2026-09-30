@@ -1,0 +1,22 @@
+{
+  "version": "5.2.1",
+  "checked": "2026-09-29",
+  "source_id": "JASINK-BOMBARDIERI-CHS",
+  "access": "PUBLIC_DATABASE_DESCRIPTION_VERIFIED",
+  "usable_factual_layers": [
+    "provenance/site/area",
+    "find context",
+    "collection",
+    "CMS identifier",
+    "CHIC identifier",
+    "dimensions",
+    "material",
+    "shape",
+    "CHIC-numbered script element classification",
+    "spatial relations"
+  ],
+  "rights_boundary": "Do not redistribute database drawings/photos; source page states reproduced materials are for personal, scientific and educational purposes.",
+  "method_boundary": "DBAS classifications are source-attributed assertions; iconographic-versus-writing status may itself be analytically contested.",
+  "source_checked_transcriptions_added": 0,
+  "principle": "Source availability and metadata verification do not equal transcription verification."
+}
