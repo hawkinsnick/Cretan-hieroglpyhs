@@ -1,15 +1,14 @@
 {
-  "contract_version": "1.1.0",
+  "contract_version": "1.0.0",
   "family": "Aegean corpus research family",
   "members": [
     "linear-a",
     "cypro-minoan",
     "cretan-hieroglyphic",
-    "linear-b",
-    "phaistos-disc"
+    "linear-b"
   ],
   "member": "Cretan-hieroglpyhs",
-  "member_version": "5.2.4",
+  "member_version": "5.2.3",
   "native_state": "READY_FOR_SOURCE_BACKED_PILOT",
   "invariants": [
     "Native corpus evidence remains authoritative.",
@@ -22,6 +21,5 @@
     "Family releases check all member repositories for compatibility; version numbers need not match."
   ],
   "next_action": "Populate a balanced H/I/S/Y metadata tranche, then exact-locator readings where rights permit.",
-  "blocked_claim": "Occurrence statistics remain blocked until checked readings exist.",
-  "membership_boundary": "Native evidence only; membership implies no linguistic affinity, shared sign identities, or pooled analysis."
+  "blocked_claim": "Occurrence statistics remain blocked until checked readings exist."
 }
