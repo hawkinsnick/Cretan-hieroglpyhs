@@ -1,6 +1,6 @@
 # Current-state integrity milestone
 
-Repository version: 5.2.2.
+Repository version: 5.2.3.
 
 331 catalogue identities, 96 sign registry entries, zero critical readings and zero source-checked occurrence objects. DBAS metadata/rights boundaries are documented; structural and comparative experiments remain blocked.
 

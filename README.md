@@ -1,6 +1,6 @@
 # Cretan Hieroglyphic Open Corpus
 
-## Current status — 5.2.2
+## Current status — 5.2.3
 
 331 catalogue identities, 96 sign registry entries, zero critical readings and zero source-checked occurrence objects. DBAS metadata/rights boundaries are documented; structural and comparative experiments remain blocked.
 

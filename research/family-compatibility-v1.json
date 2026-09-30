@@ -8,7 +8,7 @@
     "linear-b"
   ],
   "member": "Cretan-hieroglpyhs",
-  "member_version": "5.2.2",
+  "member_version": "5.2.3",
   "native_state": "READY_FOR_SOURCE_BACKED_PILOT",
   "invariants": [
     "Native corpus evidence remains authoritative.",

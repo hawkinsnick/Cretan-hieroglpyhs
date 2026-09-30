@@ -1,3 +1,7 @@
+## 5.2.3 — mapping/statistical repair and stronger scientific-claim guards
+
+331 catalogue identities, 96 sign registry entries, zero critical readings and zero source-checked occurrence objects. DBAS metadata/rights boundaries are documented; structural and comparative experiments remain blocked.
+
 ## 5.2.2 — current-state integrity and evidence gate reconciliation
 
 - Repair malformed schemas and enforce schema semantics with positive/negative fixtures.
