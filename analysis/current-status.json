@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "repository_version": "5.2.4",
+  "repository_version": "5.2.5",
   "checked": "2026-09-30",
   "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
   "committed_evidence_counts": {
@@ -18,7 +18,7 @@
     },
     {
       "path": "corpus/manifest.json",
-      "sha256": "518bac5a56be9a649daaf02eea14b2fd8637c4ca11a8d305be735e3684e29a47"
+      "sha256": "fc6f12d3a7ac08f433dd3d68c36dbad77187289e240869bdd8ad587e9319a023"
     },
     {
       "path": "analysis/5.2.1_source-access-audit.json",

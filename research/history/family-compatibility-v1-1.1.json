@@ -1,5 +1,5 @@
 {
-  "contract_version": "1.2.0",
+  "contract_version": "1.1.0",
   "family": "Aegean corpus research family",
   "members": [
     "linear-a",
@@ -9,7 +9,7 @@
     "phaistos-disc"
   ],
   "member": "Cretan-hieroglpyhs",
-  "member_version": "5.2.5",
+  "member_version": "5.2.4",
   "native_state": "READY_FOR_SOURCE_BACKED_PILOT",
   "invariants": [
     "Native corpus evidence remains authoritative.",
@@ -23,6 +23,5 @@
   ],
   "next_action": "Populate a balanced H/I/S/Y metadata tranche, then exact-locator readings where rights permit.",
   "blocked_claim": "Occurrence statistics remain blocked until checked readings exist.",
-  "membership_boundary": "Native evidence only; membership implies no linguistic affinity, shared sign identities, or pooled analysis.",
-  "next_family_gate": "Source-compatible measured definitions plus a legitimate frozen linguistic known-answer control; software fixtures do not satisfy it."
+  "membership_boundary": "Native evidence only; membership implies no linguistic affinity, shared sign identities, or pooled analysis."
 }
