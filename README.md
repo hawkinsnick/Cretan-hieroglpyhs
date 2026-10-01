@@ -4,7 +4,7 @@
 
 Adds five printed CHIC1996 transnumerations on two Knossos medallions from public publisher pages 91 and 93, with source-image digests and exact locators. Literal X marks, hyphenated groups and numerical notation remain preserved. This H-series convenience pilot has zero independent reviews; representative and comparative experiments remain blocked.
 
-Family contract 1.2 aligns all five projects with [Phaistos Disc 1.0](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v1.0.0). The shared readiness report preserves native sampling units, source rights and blocked linguistic controls. It authorizes no pooling or linguistic relationship claim. See [`research/family-readiness-v1.json`](research/family-readiness-v1.json).
+Family contract 1.2 aligns all five projects with [Phaistos Disc 1.2.1](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v1.2.1). The shared readiness report preserves native sampling units, source rights and blocked linguistic controls. It authorizes no pooling or linguistic relationship claim. See [`research/family-readiness-v1.json`](research/family-readiness-v1.json).
 
 The authoritative current gate summary is [`analysis/current-status.json`](analysis/current-status.json). Historical release reports below retain their original versions and claims.
 

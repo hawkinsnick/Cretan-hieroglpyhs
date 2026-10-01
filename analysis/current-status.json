@@ -41,6 +41,10 @@
     {
       "path": "scripts/validate_current_state.py",
       "sha256": "1a2e6f5c182ea367de7898be1762a03acddd54b03ebd64aa6f1060b577a5d613"
+    },
+    {
+      "path": "research/family-readiness-v1.json",
+      "sha256": "3352f71d9c744e18623e5b2c967a9a64093b5e09649a2d5464c537e37b12a38b"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
