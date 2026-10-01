@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "reading_id": "CHIC-036-a-CHIC1996",
+    "object_id": "CHIC-036",
+    "surface_id": "a",
+    "kind": "diplomatic",
+    "source_id": "CHIC1996",
+    "locator": "p. 91, #036, face/line a, printed transnumeration",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "X",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 2,
+        "form": "023-061-019-057",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-036-b-CHIC1996",
+    "object_id": "CHIC-036",
+    "surface_id": "b",
+    "kind": "diplomatic",
+    "source_id": "CHIC1996",
+    "locator": "p. 91, #036, face/line b, printed transnumeration",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "100",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-040-a-CHIC1996",
+    "object_id": "CHIC-040",
+    "surface_id": "a",
+    "kind": "diplomatic",
+    "source_id": "CHIC1996",
+    "locator": "p. 93, #040, face/line a, printed transnumeration",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "X",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 2,
+        "form": "019-070-061",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 3,
+        "form": "X",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 4,
+        "form": "072-039",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-040-b1-CHIC1996",
+    "object_id": "CHIC-040",
+    "surface_id": "b1",
+    "kind": "diplomatic",
+    "source_id": "CHIC1996",
+    "locator": "p. 93, #040, face/line b1, printed transnumeration",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "X",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 2,
+        "form": "044-049",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 3,
+        "form": "2",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  },
+  {
+    "reading_id": "CHIC-040-b2-CHIC1996",
+    "object_id": "CHIC-040",
+    "surface_id": "b2",
+    "kind": "diplomatic",
+    "source_id": "CHIC1996",
+    "locator": "p. 93, #040, face/line b2, printed transnumeration",
+    "tokens": [
+      {
+        "position": 1,
+        "form": "X",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 2,
+        "form": "068-031",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      },
+      {
+        "position": 3,
+        "form": "4",
+        "certainty": "secure",
+        "editorial": "Source printed transnumeration, not a project phonetic value; X/start marks, group hyphens and numerical notation remain literal."
+      }
+    ],
+    "status": "source-checked",
+    "supersedes": []
+  }
+]

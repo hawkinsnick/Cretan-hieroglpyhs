@@ -1,11 +1,13 @@
 {
   "schema_version": "1.0",
-  "repository_version": "5.2.5",
-  "checked": "2026-09-30",
+  "repository_version": "5.2.6",
+  "checked": "2026-10-01",
   "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
   "committed_evidence_counts": {
     "catalogue_identities": 331,
-    "critical_readings": 0
+    "critical_readings": 5,
+    "source_checked_occurrence_objects": 2,
+    "independently_reviewed_objects": 0
   },
   "scientific_results": {
     "structural_analysis": "BLOCKED",
@@ -18,14 +20,30 @@
     },
     {
       "path": "corpus/manifest.json",
-      "sha256": "fc6f12d3a7ac08f433dd3d68c36dbad77187289e240869bdd8ad587e9319a023"
+      "sha256": "26e4fe83d4844425165bd876882fde09f75d4c7fd07229b42d60e3dfd1baacdc"
     },
     {
       "path": "analysis/5.2.1_source-access-audit.json",
       "sha256": "becb3713b1645d3027346e0d85f5c492f43d54c2afb86290e9d6db7427556b07"
+    },
+    {
+      "path": "corpus/critical-readings.json",
+      "sha256": "f9afc20f153ee5b59743ce174cacbf922ce0db31c6c68abab8fdbcd946466122"
+    },
+    {
+      "path": "analysis/chic-primary-pilot-v1.json",
+      "sha256": "dc21045b6adb2cbf3aede7afe51bc58745a43fab60dfa0f81d654c1f4f382829"
+    },
+    {
+      "path": "bibliography/source-access.json",
+      "sha256": "2652fc00a2afc3765c56387f7ff7cc68e3199c36905680b469cde92bbde4f0ef"
+    },
+    {
+      "path": "scripts/validate_current_state.py",
+      "sha256": "1a2e6f5c182ea367de7898be1762a03acddd54b03ebd64aa6f1060b577a5d613"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
   "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
-  "summary": "331 catalogue identities, 96 sign registry entries, zero critical readings and zero source-checked occurrence objects. DBAS metadata/rights boundaries are documented; structural and comparative experiments remain blocked."
+  "summary": "Adds five printed CHIC1996 transnumerations on two Knossos medallions from public publisher pages 91 and 93, with source-image digests and exact locators. Literal X marks, hyphenated groups and numerical notation remain preserved. This H-series convenience pilot has zero independent reviews; representative and comparative experiments remain blocked."
 }

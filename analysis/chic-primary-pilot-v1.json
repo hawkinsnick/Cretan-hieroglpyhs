@@ -1,0 +1,45 @@
+{
+  "checked": "2026-10-01",
+  "source_id": "CHIC1996",
+  "pages": [
+    {
+      "page": 91,
+      "url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=91&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "image_url": "https://cefael.efa.gr/apps/library/services/images/?f=EtCret_31-0_1996_097.jpg&p=jpg%2F150%2FEtCret%2FEtCret_31-0_1996%2FEtCret_31-0_1996_VolumeBroche&r=1403",
+      "bytes": 54443,
+      "sha256": "53f0ec746856ffccf36372972ff5dc4c18fdca6e7951bc85ebb61f9b90adc4f3",
+      "redistributed": false
+    },
+    {
+      "page": 93,
+      "url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=93&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "image_url": "https://cefael.efa.gr/apps/library/services/images/?f=EtCret_31-0_1996_099.jpg&p=jpg%2F150%2FEtCret%2FEtCret_31-0_1996%2FEtCret_31-0_1996_VolumeBroche&r=1403",
+      "bytes": 74684,
+      "sha256": "bd6460b7399c090f4f2279fe4e80c5d3ac73ba921a526a9b3074057d43770fb4",
+      "redistributed": false
+    }
+  ],
+  "reading_ids": [
+    "CHIC-036-a-CHIC1996",
+    "CHIC-036-b-CHIC1996",
+    "CHIC-040-a-CHIC1996",
+    "CHIC-040-b1-CHIC1996",
+    "CHIC-040-b2-CHIC1996"
+  ],
+  "source_checked_objects": [
+    "CHIC-036",
+    "CHIC-040"
+  ],
+  "source_checked_readings": 5,
+  "external_review_completed": false,
+  "phonetic_values_asserted": 0,
+  "sampling": "Convenience source-access pilot in H-series Knossos medallions; not the frozen representative H/I/S/Y pilot and not representative of the whole corpus.",
+  "verification_scope": "Project transcription of the edition’s printed transnumerations against publisher page images. No autopsy, independent epigraphic certification, sign normalization or new direction inference.",
+  "representation": "Literal published groups, X marks and numbers. Token positions are project encoding order, not physical stamp positions.",
+  "limitations": [
+    "Modern images not redistributed.",
+    "No critical or statistical result from this two-object sample.",
+    "Original edition and digital page images are one source lineage.",
+    "Representative pilot remains blocked; no independent reviewer assigned."
+  ]
+}

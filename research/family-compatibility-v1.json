@@ -9,7 +9,7 @@
     "phaistos-disc"
   ],
   "member": "Cretan-hieroglpyhs",
-  "member_version": "5.2.5",
+  "member_version": "5.2.6",
   "native_state": "READY_FOR_SOURCE_BACKED_PILOT",
   "invariants": [
     "Native corpus evidence remains authoritative.",

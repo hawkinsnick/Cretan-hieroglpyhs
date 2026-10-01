@@ -86,6 +86,10 @@ def validate():
         gold=load("research/gold-acquisition-gate.json")
         require(gold["release_5_0_allowed"] is False,"gold gate unexpectedly opened")
         require(not state["scientific_results"]["calibration_executed"],"unsupported calibration claim")
+    from validate_primary_pilot import validate as validate_pilot
+    validate_pilot(load('corpus/critical-readings.json'), load('analysis/chic-primary-pilot-v1.json'))
+    require(load('corpus/manifest.json')['critical_corpus'] == {'readings':5,'source_checked_occurrence_objects':2,'independently_reviewed_objects':0}, 'primary pilot manifest counts drift')
+    require(counts['source_checked_occurrence_objects']==2 and counts['independently_reviewed_objects']==0,'primary pilot current counts drift')
     from validate_family_readiness import validate as validate_readiness
     validate_readiness(R)
     print(json.dumps({"status":"PASS","version":version,"json_files":len(files),"schemas":len(list((R/"schemas").glob("*.json"))),"evidence_counts":counts,"scientific_gate_claim":"UNCHANGED"}))

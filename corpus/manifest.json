@@ -1,6 +1,6 @@
 {
   "corpus": "Cretan Hieroglyphic Open Corpus",
-  "version": "5.2.5",
+  "version": "5.2.6",
   "stability": "critical-corpus-production",
   "canonical_catalogue": "CHIC1996",
   "catalogue_spine": {
@@ -12,8 +12,8 @@
     "phonetic_values_asserted": 0
   },
   "critical_corpus": {
-    "readings": 0,
-    "source_checked_occurrence_objects": 0,
+    "readings": 5,
+    "source_checked_occurrence_objects": 2,
     "independently_reviewed_objects": 0
   },
   "snapshot": "analysis/corpus-snapshot-5.0.0.json",

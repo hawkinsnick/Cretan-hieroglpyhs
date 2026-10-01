@@ -12,3 +12,5 @@ jobs:
       - run: python scripts/test_current_state.py
       - run: python scripts/build_release_manifest.py > /tmp/release-manifest.json
 
+      - run: python scripts/validate_primary_pilot.py
+      - run: python scripts/test_primary_pilot.py
