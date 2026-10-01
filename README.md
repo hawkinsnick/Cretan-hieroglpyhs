@@ -28,4 +28,4 @@ The foundation remains 331 CHIC catalogue-spine records and a 96-entry numbered 
 **Blocked is a valid scientific result.** Internal structural analysis, CH–Linear A comparison and fine matched-degradation experiments remain blocked by their predeclared evidence requirements.
 
 
-The shared family report now targets the Disc [2.0.0-rc.1 prerelease](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v2.0.0-rc.1). Final independently reviewed Disc 2.0 remains blocked; compatibility does not confer linguistic equivalence or independent review. Native evidence and this repository’s release version are unchanged.
+The shared family report now targets the Disc [2.0.0-rc.2 prerelease](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v2.0.0-rc.2). Final independently reviewed Disc 2.0 remains blocked; compatibility does not confer linguistic equivalence or independent review. Native evidence and this repository’s release version are unchanged.
