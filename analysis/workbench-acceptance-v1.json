@@ -1,0 +1,15 @@
+{
+  "format": "research-workbench-acceptance-v1",
+  "milestone_version": "1.0.0",
+  "project": "Cretan-hieroglpyhs",
+  "status": "PASS_ARTIFACT_REPLAY",
+  "evidence_files": 9,
+  "index_sha256": "83130029835f27f6125c3197af51f87309b52813fc546670fbaccc9a867baf93",
+  "viewer_sha256": "b55f0ede1de3f14f8877ceefb66567430bb955c24fb92ba76276d54331a0a774",
+  "disc_comparison_rows": null,
+  "disc_scenarios": null,
+  "native_changes_applied": false,
+  "expert_review_granted": false,
+  "final_epigraphic_acceptance_granted": false,
+  "boundary": "Engineering milestone only. Browser behavior and adversarial controls are tested separately in CI."
+}

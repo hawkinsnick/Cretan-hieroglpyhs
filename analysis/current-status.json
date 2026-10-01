@@ -44,7 +44,43 @@
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "955ddc697d4ce293a5c2d3d19bd89c33328401ca4473c7fe6768ad87dc5acb42"
+      "sha256": "e43686c4497875d0899920235b9b2e47315a19e8810ff610787dbb34bee57251"
+    },
+    {
+      "path": "analysis/evidence-index-v1.json",
+      "sha256": "83130029835f27f6125c3197af51f87309b52813fc546670fbaccc9a867baf93"
+    },
+    {
+      "path": "analysis/workbench-acceptance-v1.json",
+      "sha256": "7dd1e2c33e594e6baa79861c4fc95e854211a44dbdfac1751fa39e54325908fe"
+    },
+    {
+      "path": "workbench/evidence.html",
+      "sha256": "b55f0ede1de3f14f8877ceefb66567430bb955c24fb92ba76276d54331a0a774"
+    },
+    {
+      "path": "research/workbench-milestone-v1.json",
+      "sha256": "5525ea0f4d413740482ae1209533248eaa42939efdded99bdabaf46da1d37812"
+    },
+    {
+      "path": "scripts/evidence_workbench.py",
+      "sha256": "3a567a5d8bdde774357c01636ed69e1699e892680e61ba94ada45dfffeca3c87"
+    },
+    {
+      "path": "scripts/test_evidence_workbench.py",
+      "sha256": "a03a741f070cc1deda4c02182caca662819b0fdad476687871177990182d8385"
+    },
+    {
+      "path": "scripts/test_evidence_browser.cjs",
+      "sha256": "1bb199e91747e1f49171e03e703c9e5056dbbd73f74767650fea955decd6fc2c"
+    },
+    {
+      "path": "workbench/evidence-template.html",
+      "sha256": "f1636f0fa50debe8b71412e5dc6c9d3dcda037af538688de345faf7391d23c27"
+    },
+    {
+      "path": "research/workbench-guide.md",
+      "sha256": "3a839183ae51190145cf904df3be6891109ee4f97673affa51925ec6c64525e3"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
