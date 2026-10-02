@@ -1,0 +1,65 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "source_commit": "222fd669f96c9eaffbad16347ff748fc53a5d9ca",
+  "generated_at_utc": "2026-10-02T23:18:37+00:00",
+  "canonical_repository": true,
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "artifacts": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "sha256": "f0892e9909c8c10aa3bbaf02feb8b504170c2c1b53904d948b2fe5c532b62482",
+      "bytes": 4565
+    },
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "9aa2593afe4c15161cbe74892f8b9912af49b115fdcf5d79d2c29061659f653a",
+      "bytes": 1968
+    },
+    {
+      "role": "dbas_chs_baseline",
+      "path": "research/dbas-chs-baseline.json",
+      "sha256": "4a207ba25603ce9a48f235373fdbebe977846c6aabdd12a0c0aa28d18394e18d",
+      "bytes": 1199
+    },
+    {
+      "role": "manifest",
+      "path": "corpus/manifest.json",
+      "sha256": "26e4fe83d4844425165bd876882fde09f75d4c7fd07229b42d60e3dfd1baacdc",
+      "bytes": 901
+    },
+    {
+      "role": "critical_readings",
+      "path": "corpus/critical-readings.json",
+      "sha256": "f9afc20f153ee5b59743ce174cacbf922ce0db31c6c68abab8fdbcd946466122",
+      "bytes": 4738
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "c953c45bf8a3c112bf03c8e7c2e3af7d97197253d2fd1b7b645476df4ae87a9c",
+      "bytes": 2352
+    },
+    {
+      "role": "pre_expert_source_exhaustion",
+      "path": "research/pre-expert-source-exhaustion.json",
+      "sha256": "2988d1c32da4a7ad1c2f1ecc4aaffce3200dee83f4bfb17812fd40a3ade675ed",
+      "bytes": 2540
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "sha256": "e1aae1a40fd86cc76ef4fe3682a3c88fbdb39d2f32452847aeaee68ef8ca9a1d",
+      "bytes": 421
+    }
+  ]
+}
