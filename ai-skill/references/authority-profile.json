@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cretan-hieroglpyhs",
+  "required_authorities": [
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "required": true
+    },
+    {
+      "role": "manifest",
+      "path": "corpus/manifest.json",
+      "required": true
+    },
+    {
+      "role": "critical_readings",
+      "path": "corpus/critical-readings.json",
+      "required": true
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "required": true
+    }
+  ],
+  "behavioral_gates": [
+    "No native phonetic values are asserted",
+    "Structural and comparative analyses remain BLOCKED until canonical gates change",
+    "Five critical readings on two source-checked objects are not representative corpus coverage",
+    "Zero independently reviewed objects must remain explicit",
+    "Graphic similarity does not establish sign equivalence"
+  ]
+}
