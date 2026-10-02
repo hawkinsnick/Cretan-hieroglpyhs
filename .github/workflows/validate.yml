@@ -14,6 +14,7 @@ jobs:
 
       - run: python scripts/validate_primary_pilot.py
       - run: python scripts/test_primary_pilot.py
+      - run: python scripts/test_pre_expert_maximum.py
 
   publish:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
