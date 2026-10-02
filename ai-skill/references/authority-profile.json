@@ -21,6 +21,11 @@
       "role": "notice",
       "path": "NOTICE",
       "required": true
+    },
+    {
+      "role": "dbas_chs_baseline",
+      "path": "research/dbas-chs-baseline.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -28,6 +33,7 @@
     "Structural and comparative analyses remain BLOCKED until canonical gates change",
     "Five critical readings on two source-checked objects are not representative corpus coverage",
     "Zero independently reviewed objects must remain explicit",
-    "Graphic similarity does not establish sign equivalence"
+    "Graphic similarity does not establish sign equivalence",
+    "DBAS-CHS classifications and associations are attributed scholarly metadata; they do not establish phonetic values or decipherment, and restricted images are not redistributed."
   ]
 }
