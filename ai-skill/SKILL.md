@@ -1,7 +1,7 @@
 ---
 name: cretan-hieroglyphic-research
 description: Evidence-first AI research skill for the Cretan Hieroglyphic corpus.
-version: 0.1.0
+version: 0.3.1
 ---
 
 # Cretan Hieroglyphic Research Skill
@@ -26,3 +26,10 @@ Give the direct answer, followed as relevant by Evidence; Evidentiary status; Un
 
 ## Synchronization
 Read `ai-skill/generated/source-state.json` before substantive work. It records the corpus commit from which the AI-facing package was synchronized. Generated files are rebuildable views; canonical corpus files govern if a discrepancy is found.
+
+## Academic-scrutiny gates
+- No native phonetic values are asserted
+- Structural and comparative analyses remain BLOCKED until canonical gates change
+- Five critical readings on two source-checked objects are not representative corpus coverage
+- Zero independently reviewed objects must remain explicit
+- Graphic similarity does not establish sign equivalence
