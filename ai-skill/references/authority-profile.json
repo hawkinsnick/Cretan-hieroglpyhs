@@ -26,6 +26,16 @@
       "role": "dbas_chs_baseline",
       "path": "research/dbas-chs-baseline.json",
       "required": true
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "required": true
+    },
+    {
+      "role": "pre_expert_source_exhaustion",
+      "path": "research/pre-expert-source-exhaustion.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -34,6 +44,7 @@
     "Five critical readings on two source-checked objects are not representative corpus coverage",
     "Zero independently reviewed objects must remain explicit",
     "Graphic similarity does not establish sign equivalence",
-    "DBAS-CHS classifications and associations are attributed scholarly metadata; they do not establish phonetic values or decipherment, and restricted images are not redistributed."
+    "DBAS-CHS classifications and associations are attributed scholarly metadata; they do not establish phonetic values or decipherment, and restricted images are not redistributed.",
+    "Online CHIC availability for private use is not permission to bulk-republish transcriptions, facsimiles or photographs."
   ]
 }
