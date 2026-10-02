@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-01",
+  "source": {
+    "name": "DBAS-CHS Cretan Hieroglyphic Seals",
+    "institution": "University of Florence SAGAS / @egeanLab",
+    "basis": [
+      "CMS",
+      "CHIC"
+    ]
+  },
+  "fields_supported": [
+    "provenance",
+    "find_context",
+    "collection",
+    "CMS identifier",
+    "CHIC identifier",
+    "dimensions",
+    "material",
+    "shape",
+    "classified elements",
+    "CHIC sign numbering",
+    "element character",
+    "spatial associations"
+  ],
+  "research_scope": "Middle Minoan Cretan Hieroglyphic seals and seal impressions; database designed for quantitative/qualitative recurrence queries.",
+  "rights": {
+    "metadata_use": "verification/reference layer",
+    "images": "online reproductions permitted by CMS and CHIC rights holders for personal, scientific and educational purposes; do not redistribute images in repository without separate permission"
+  },
+  "project_policy": "Use DBAS metadata to reconcile object identities and CHIC/CMS crosswalks. Treat its classifications as attributed scholarly data. Do not treat statistical associations or iconographic classifications as phonetic values or decipherment."
+}
