@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "role": "CHIC sign-list reassessment authority",
+  "use": "reading-review queue and uncertainty reconciliation",
+  "phonetic_values_established": false,
+  "rule": "Map reassessed signs and objects to canonical CHIC identities before changing native readings."
+}
