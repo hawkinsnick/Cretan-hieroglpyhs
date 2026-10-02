@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "target": "PRE_EXPERT_SOURCE_EXHAUSTION",
+  "dispositions": [
+    {
+      "id": "CH-PRE-001",
+      "scope": "H/I/S/Y representative cohort",
+      "status": "SOURCE_BLOCKED_BEYOND_PILOT",
+      "evidence": "CHIC online access is publisher-provided for private use; the repository preserves only five source-located critical readings on two H-series objects. Bulk republication is not inferred from online availability.",
+      "next_route": "lawful source-specific encoding or independent observation"
+    },
+    {
+      "id": "CH-PRE-002",
+      "scope": "331-object catalogue spine",
+      "status": "IDENTITY_COMPLETE_METADATA_OPEN",
+      "evidence": "All 331 catalogue identities and H/I/S/Y denominators are registered. DBAS-CHS provides a lawful metadata research route for seals, but its drawings/photos are not redistributed and its scholarly classifications remain attributed.",
+      "next_route": "object-by-object DBAS/CHIC metadata collation"
+    },
+    {
+      "id": "CH-PRE-003",
+      "scope": "competing readings and repertoire reassessment",
+      "status": "PUBLICATION_ACCESS_REQUIRED",
+      "evidence": "Competing transnumerations/sign-repertoire claims require source-located publication evidence; disagreements must be preserved rather than normalized away."
+    },
+    {
+      "id": "CH-PRE-004",
+      "scope": "DBAS-CHS",
+      "status": "PUBLIC_METADATA_ROUTE_CONFIRMED",
+      "evidence": "University of Florence DBAS-CHS supports provenance/context/material/shape/sign-position research and explicitly treats graphic/iconographic classification as analytically revisitable."
+    },
+    {
+      "id": "CH-PRE-005",
+      "scope": "CHIC online corpus",
+      "status": "PRIVATE_USE_BOUNDARY_RECORDED",
+      "evidence": "Mnamon describes the Ecole française d'Athènes online CHIC as providing photographs, facsimiles, normalized transcription and transnumeration for private use; availability is not treated as redistribution permission."
+    }
+  ],
+  "claim_boundary": {
+    "structural_analysis": "BLOCKED",
+    "comparative_analysis": "BLOCKED",
+    "phonetic_values_asserted": 0,
+    "independently_reviewed_objects": 0
+  },
+  "completion_assessment": "PRE_EXPERT_MAXIMUM_REACHED_FOR_CURRENT_LAWFUL_SOURCE_ROUTES",
+  "qualification": "The representative acquisition target is not fabricated from restricted material. New lawful object-level evidence reopens acquisition."
+}
