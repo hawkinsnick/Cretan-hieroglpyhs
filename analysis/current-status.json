@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository_version": "5.2.6",
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
   "committed_evidence_counts": {
     "catalogue_identities": 331,
@@ -48,15 +48,15 @@
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "60eabaa831e08c471dbb47b5f84494f7879b5a133622c7b3081b5e5c326274eb"
+      "sha256": "9ddcb93fadcae4c7bcf5223f7cd56a9ccb48a8a2fcbcce8ee5cd7dba98bce470"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "574a03a8f07c07e76afdf48cf736238a175f9d09d9513498757f688d42d528b8"
+      "sha256": "45a45d1f2d0353c9346e9d2759d2e5cc4b9f8cc6568cb65ce1c13448881abc40"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "1ca4b5c7af5b6fa62ac2d655c9e7f6eef356f57d606b2df81e5afc6b3f125655"
+      "sha256": "2a008c346b6233393d083796cce4c56bda32e205ca38b6c06bb44b2f44534ceb"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -97,9 +97,20 @@
     {
       "path": ".github/workflows/release-change-ledger.yml",
       "sha256": "acad59395f7ff8b4353bc6eea69dfec6d8e6b342e08df87617c897dcd27d8a1f"
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "9aa2593afe4c15161cbe74892f8b9912af49b115fdcf5d79d2c29061659f653a"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
   "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
-  "summary": "Adds five printed CHIC1996 transnumerations on two Knossos medallions from public publisher pages 91 and 93, with source-image digests and exact locators. Literal X marks, hyphenated groups and numerical notation remain preserved. This H-series convenience pilot has zero independent reviews; representative and comparative experiments remain blocked."
+  "summary": "Adds five printed CHIC1996 transnumerations on two Knossos medallions from public publisher pages 91 and 93, with source-image digests and exact locators. Literal X marks, hyphenated groups and numerical notation remain preserved. This H-series convenience pilot has zero independent reviews; representative and comparative experiments remain blocked.",
+  "source_inspection": {
+    "register": "research/source-inspection-2026-10-02.json",
+    "additional_page_inspected": 95,
+    "additional_object_targets": 3,
+    "critical_readings_added": 0,
+    "rights_status": "PUBLICATION_UNRESOLVED"
+  }
 }
