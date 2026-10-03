@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "6e957c158835805fee8cdf03518d64c4cd419cb9",
-  "generated_at_utc": "2026-10-03T00:39:56+00:00",
+  "source_commit": "af6da2bb65531d3ca6a05eee54a6a436e566d93f",
+  "generated_at_utc": "2026-10-03T00:43:09+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -58,8 +58,8 @@
     {
       "role": "notice",
       "path": "NOTICE",
-      "sha256": "e1aae1a40fd86cc76ef4fe3682a3c88fbdb39d2f32452847aeaee68ef8ca9a1d",
-      "bytes": 421
+      "sha256": "c349123e8aa740fce50e2dc66260cad8095f730d6d192574694dc0c289bf342c",
+      "bytes": 483
     }
   ]
 }
