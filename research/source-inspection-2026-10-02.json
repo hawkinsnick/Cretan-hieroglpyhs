@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "scope": "Additional page inspected; three acquisition targets, no restricted readings admitted.",
+  "sources": [
+    {
+      "source_id": "CHIC1996",
+      "url": "https://cefael.efa.gr/detail.php?actionID=page&page_number=95&page_type=1&serie_id=EtCret&site_id=1&volume_number=31",
+      "locator": "p. 95",
+      "role": "primary_publication",
+      "inspection": [
+        {
+          "file_name": "chic95.html",
+          "sha256": "762f43527007b5c0644defc127f792734ad68c18053759357a26aa81c2afb800",
+          "bytes": 51195,
+          "redistributed": false
+        },
+        {
+          "file_name": "chic95.jpg",
+          "sha256": "4c23edc9085b36f20f4b7c87392b331f9a4be9f34c1cf207d23927697bd79581",
+          "bytes": 69024,
+          "redistributed": false
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "object_id": "CHIC-042",
+      "locator": "p. 95, #042",
+      "status": "PAGE_INSPECTED_READING_PUBLICATION_PENDING_RIGHTS",
+      "critical_reading_added": false,
+      "independent_review": false
+    },
+    {
+      "object_id": "CHIC-043",
+      "locator": "p. 95, #043",
+      "status": "PAGE_INSPECTED_READING_PUBLICATION_PENDING_RIGHTS",
+      "critical_reading_added": false,
+      "independent_review": false
+    },
+    {
+      "object_id": "CHIC-044",
+      "locator": "p. 95, #044",
+      "status": "PAGE_INSPECTED_READING_PUBLICATION_PENDING_RIGHTS",
+      "critical_reading_added": false,
+      "independent_review": false
+    }
+  ],
+  "independent_review": false,
+  "canonical_admission_granted": false,
+  "limitations": [
+    "Publisher private-use access does not authorize bulk republication. Images and newly inspected transnumerations are not redistributed.",
+    "All three targets remain H-series Knossos medallions; inspection does not satisfy representative H/I/S/Y acquisition.",
+    "Five committed readings on two objects remain the native baseline."
+  ]
+}

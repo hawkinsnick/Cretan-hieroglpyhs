@@ -100,6 +100,15 @@
       "bytes": 732,
       "category": ".github",
       "summary": {}
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "9aa2593afe4c15161cbe74892f8b9912af49b115fdcf5d79d2c29061659f653a",
+      "bytes": 1968,
+      "category": "research",
+      "summary": {
+        "scope": "Additional page inspected; three acquisition targets, no restricted readings admitted."
+      }
     }
   ],
   "scientific_results": {

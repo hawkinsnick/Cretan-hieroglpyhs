@@ -42,6 +42,7 @@
     "phonetic_values_asserted": 0,
     "independently_reviewed_objects": 0
   },
-  "completion_assessment": "PRE_EXPERT_MAXIMUM_REACHED_FOR_CURRENT_LAWFUL_SOURCE_ROUTES",
-  "qualification": "The representative acquisition target is not fabricated from restricted material. New lawful object-level evidence reopens acquisition."
+  "completion_assessment": "ADDITIONAL_PAGE_INSPECTED_PUBLICATION_RIGHTS_UNRESOLVED",
+  "qualification": "The representative acquisition target is not fabricated from restricted material. New lawful object-level evidence reopens acquisition.",
+  "latest_source_inspection": "research/source-inspection-2026-10-02.json"
 }
