@@ -43,19 +43,22 @@
       "id": "CH-PRE-001",
       "scope": "representative H/I/S/Y acquisition cohort",
       "action": "Acquire source-located readings and metadata across the declared 8/5/8/4 minimum strata.",
-      "blocked_by": "source_access"
+      "blocked_by": "PARTIALLY_REOPENED_VIA_INSCRIBE",
+      "status": "ACTIVE_DIRECT_DIGITAL_ROUTE"
     },
     {
       "id": "CH-PRE-002",
       "scope": "331-object catalogue spine",
       "action": "Populate authoritative object metadata and source locators without treating catalogue identity as transcription verification.",
-      "blocked_by": "source_access"
+      "blocked_by": "PARTIALLY_REOPENED_VIA_INSCRIBE_AND_OTHER_OBJECT_SOURCES",
+      "status": "ACTIVE"
     },
     {
       "id": "CH-PRE-003",
       "scope": "competing readings",
       "action": "Encode source-attributed competing transnumerations where lawfully accessible; preserve disagreement.",
-      "blocked_by": "publication_access"
+      "blocked_by": "PUBLICATION_ACCESS_PLUS_DIRECT_DIGITAL_AUTHORITY_COMPARISON",
+      "status": "ACTIVE"
     }
   ],
   "human_only_boundary": [
@@ -76,5 +79,6 @@
       "decision": "any proposed cross-script sign identity or linguistic interpretation"
     }
   ],
-  "completion_rule": "Pre-Expert Maximum requires exhausting lawful authoritative source acquisition routes and converting every unresolved remainder into a source-blocked or human-only item; it does not require opening structural/comparative research gates."
+  "completion_rule": "Pre-Expert Maximum requires exhausting lawful authoritative source acquisition routes and converting every unresolved remainder into a source-blocked or human-only item; it does not require opening structural/comparative research gates.",
+  "new_route": "research/inscribe-direct-pilot.json"
 }
