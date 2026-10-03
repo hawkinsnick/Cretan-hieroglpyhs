@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "source": "ERC INSCRIBE Cretan Hieroglyphic 3D database",
+  "source_role": "DIRECT_CHIC_LINKED_DIGITAL_OBJECT_AND_TRANSNUMERATION_ROUTE",
+  "rights": {
+    "models": "scientific/non-profit use; reproduction/publication/commercial use prohibited without permission per INSCRIBE data policy",
+    "project_action": "Do not redistribute 3D models. Capture factual object metadata, identifiers, locators, transnumeration strings and rights provenance only to extent lawful; retain source attribution."
+  },
+  "records": [
+    {
+      "chic": "#202",
+      "cms": "CMS II.1,394",
+      "inscribe": "ARKH S (2/2) 01",
+      "museum_inventory": "Σ-K 2245",
+      "material": "Animal bone",
+      "chronology": "MM IA",
+      "chic_pages": "226-227",
+      "transnumeration": [
+        "042-019",
+        "019-095-052"
+      ],
+      "status": "DIRECT"
+    },
+    {
+      "chic": "#252",
+      "cms": "CMS II.1,393",
+      "inscribe": "ARKH S (3/3) 02",
+      "museum_inventory": "Σ-K 2266",
+      "material": "Animal bone",
+      "chronology": "MM IA",
+      "chic_pages": "252-253",
+      "transnumeration": [
+        "019-095-052",
+        "042-019",
+        "062"
+      ],
+      "status": "DIRECT"
+    },
+    {
+      "chic": "#313",
+      "cms": null,
+      "inscribe": "MONI OD. S (2/6) 01",
+      "museum_inventory": "Σ-Κ 2850",
+      "material": "Ivory",
+      "chronology": "MM I?",
+      "chic_pages": "288-289",
+      "transnumeration": [
+        "042-019",
+        "019-095-052"
+      ],
+      "status": "DIRECT"
+    },
+    {
+      "chic": "#315",
+      "cms": "CMS II.1,391",
+      "inscribe": "ARKH S (2/14) 01",
+      "museum_inventory": "Σ-Κ 2260",
+      "material": "Animal bone",
+      "chronology": "MM IA",
+      "chic_pages": "290-291",
+      "transnumeration": null,
+      "status": "DIRECT_OBJECT_METADATA_PAGE_TRANSNUMERATION_NOT_CAPTURED"
+    },
+    {
+      "chic": "#328",
+      "cms": null,
+      "inscribe": "MA/V Ya 01",
+      "museum_inventory": "Λ E-415",
+      "material": "Limestone",
+      "chronology": "MM II or III?",
+      "chic_pages": "314-315",
+      "transnumeration": [
+        "062-034-002-056-070-025-019-051-070-094-034-056-077-049-038-029"
+      ],
+      "status": "DIRECT"
+    }
+  ],
+  "canonical_promotion": "PENDING_EXISTING_CORPUS_INGESTION_AND_VALIDATOR_UPDATE",
+  "impact": "Source-access blocker is reduced: INSCRIBE provides a lawful metadata/transnumeration route for a nontrivial CHIC subset, while model/image redistribution remains restricted.",
+  "next": [
+    "enumerate all INSCRIBE CH objects against 331-identity spine",
+    "ingest source-attributed transnumerations through canonical schema",
+    "record disagreements against CHIC/other authorities",
+    "update evidence counts only after canonical validation"
+  ]
+}
