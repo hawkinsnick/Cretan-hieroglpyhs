@@ -1,48 +1,4 @@
 {
-  "schema_version": "1.0",
-  "corpus": "Cretan-hieroglpyhs",
-  "required_authorities": [
-    {
-      "role": "current_status",
-      "path": "analysis/current-status.json",
-      "required": true
-    },
-    {
-      "role": "manifest",
-      "path": "corpus/manifest.json",
-      "required": true
-    },
-    {
-      "role": "critical_readings",
-      "path": "corpus/critical-readings.json",
-      "required": true
-    },
-    {
-      "role": "notice",
-      "path": "NOTICE",
-      "required": true
-    },
-    {
-      "role": "dbas_chs_baseline",
-      "path": "research/dbas-chs-baseline.json",
-      "required": true
-    },
-    {
-      "role": "pre_expert_maximum",
-      "path": "research/pre-expert-maximum.json",
-      "required": true
-    },
-    {
-      "role": "pre_expert_source_exhaustion",
-      "path": "research/pre-expert-source-exhaustion.json",
-      "required": true
-    },
-    {
-      "role": "source_inspection",
-      "path": "research/source-inspection-2026-10-02.json",
-      "required": true
-    }
-  ],
   "behavioral_gates": [
     "No native phonetic values are asserted",
     "Structural and comparative analyses remain BLOCKED until canonical gates change",
@@ -51,5 +7,59 @@
     "Graphic similarity does not establish sign equivalence",
     "DBAS-CHS classifications and associations are attributed scholarly metadata; they do not establish phonetic values or decipherment, and restricted images are not redistributed.",
     "Online CHIC availability for private use is not permission to bulk-republish transcriptions, facsimiles or photographs."
-  ]
+  ],
+  "corpus": "Cretan-hieroglpyhs",
+  "required_authorities": [
+    {
+      "path": "analysis/current-status.json",
+      "required": true,
+      "role": "current_status"
+    },
+    {
+      "path": "corpus/manifest.json",
+      "required": true,
+      "role": "manifest"
+    },
+    {
+      "path": "corpus/critical-readings.json",
+      "required": true,
+      "role": "critical_readings"
+    },
+    {
+      "path": "NOTICE",
+      "required": true,
+      "role": "notice"
+    },
+    {
+      "path": "research/dbas-chs-baseline.json",
+      "required": true,
+      "role": "dbas_chs_baseline"
+    },
+    {
+      "path": "research/pre-expert-maximum.json",
+      "required": true,
+      "role": "pre_expert_maximum"
+    },
+    {
+      "path": "research/pre-expert-source-exhaustion.json",
+      "required": true,
+      "role": "pre_expert_source_exhaustion"
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "required": true,
+      "role": "source_inspection"
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "schema_version": "1.0"
 }
