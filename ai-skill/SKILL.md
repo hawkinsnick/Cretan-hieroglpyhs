@@ -33,3 +33,7 @@ Read `ai-skill/generated/source-state.json` before substantive work. It records 
 - Five critical readings on two source-checked objects are not representative corpus coverage
 - Zero independently reviewed objects must remain explicit
 - Graphic similarity does not establish sign equivalence
+
+## Collection source work and review handoff
+
+Read `research/collection-work-ledger.json` and `review/collection-packet.json` when preparing a source-work plan or expert request. Check their evidence fingerprint against current inputs with `python scripts/build_collection_handoff.py`. Select exact record keys and retain native units; overlapping views are not additional physical objects. Follow native review links for scientific decisions and admission. Ledger coverage does not establish completed collation, independent review or a terminal pre-expert ceiling. Use `review/collection-decision-template.json` for revision-bound submissions; structural validation cannot authenticate the reviewer or approve the science. Keep restricted local A/B derivatives local.
