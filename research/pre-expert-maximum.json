@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Cretan Hieroglyphic",
   "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "established": [
     {
       "gate": "catalogue_identity_spine",
@@ -51,7 +51,8 @@
       "scope": "331-object catalogue spine",
       "action": "Populate authoritative object metadata and source locators without treating catalogue identity as transcription verification.",
       "blocked_by": "PARTIALLY_REOPENED_VIA_INSCRIBE_AND_OTHER_OBJECT_SOURCES",
-      "status": "ACTIVE"
+      "status": "PARTIAL_METADATA_ADMITTED",
+      "completion_scope": "26/331 explicit catalogue entries have attributed INSCRIBE context; 305 remain without encoded context in this layer."
     },
     {
       "id": "CH-PRE-003",
@@ -80,5 +81,12 @@
     }
   ],
   "completion_rule": "Pre-Expert Maximum requires exhausting lawful authoritative source acquisition routes and converting every unresolved remainder into a source-blocked or human-only item; it does not require opening structural/comparative research gates.",
-  "new_route": "research/inscribe-direct-pilot.json"
+  "new_route": "research/inscribe-direct-pilot.json",
+  "context_milestone": {
+    "release": "5.3.0",
+    "dossiers": 331,
+    "guide": "docs/CONTEXT-AND-DOSSIERS.md",
+    "coverage": "analysis/context-coverage-v1.json",
+    "source_or_human_gates_closed": false
+  }
 }

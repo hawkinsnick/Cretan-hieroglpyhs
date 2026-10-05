@@ -2,7 +2,7 @@
   "format": "research-evidence-index-v1",
   "workbench_version": "1.1.0",
   "project": "Cretan-hieroglpyhs",
-  "repository_version": "5.2.6",
+  "repository_version": "5.3.0",
   "evidence": [
     {
       "path": "research/experiment-gates.json",
@@ -13,8 +13,8 @@
     },
     {
       "path": "corpus/manifest.json",
-      "sha256": "26e4fe83d4844425165bd876882fde09f75d4c7fd07229b42d60e3dfd1baacdc",
-      "bytes": 901,
+      "sha256": "182ff102fd0d784674e689d2e4ef3e2039561e456eb033f6c8ea065cb056f7ea",
+      "bytes": 1100,
       "category": "corpus",
       "summary": {}
     },
@@ -52,15 +52,15 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "1a2e6f5c182ea367de7898be1762a03acddd54b03ebd64aa6f1060b577a5d613",
-      "bytes": 8124,
+      "sha256": "f2465f2dbda59e63a8a91836814a201988fc824b5c3913ecb8dbccfc276ead9c",
+      "bytes": 8525,
       "category": "scripts",
       "summary": {}
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e17625716660da70731459252e2b1bbca429d7183640b79f0733162313148b3e",
-      "bytes": 14067,
+      "sha256": "2df078b52ad9573617efa3f00689a7b1c14ebb62bd855dd04e66580ccc0d0569",
+      "bytes": 13619,
       "category": "research",
       "summary": {
         "scope": "Comparison readiness and software/governance alignment, not permission for cross-script inference. Exact snapshot commits pin native evidence; target versions describe the coordinated rollout. Snapshot versions may precede report-only maintenance."
@@ -109,6 +109,60 @@
       "summary": {
         "scope": "Additional page inspected; three acquisition targets, no restricted readings admitted."
       }
+    },
+    {
+      "path": "research/record-dossiers.json",
+      "sha256": "924df12f9a6df1abd2af11f17bddc1f2f54cc7b21da3066a934aece60cf9ce2c",
+      "bytes": 497956,
+      "category": "research",
+      "summary": {}
+    },
+    {
+      "path": "analysis/context-coverage-v1.json",
+      "sha256": "74fc6cb84b5d8db55ad8f2f45287f4e1d6c77b008ffa0609e1940c98e0be3605",
+      "bytes": 6725,
+      "category": "analysis",
+      "summary": {
+        "boundary": "Catalogue/context/occurrence coverage are separate. Source attribution is not independent verification; no phonetic, semantic or representative-population claim is authorized."
+      }
+    },
+    {
+      "path": "scripts/research_dossiers.py",
+      "sha256": "393822929c446b9b33bb69bcba5ce8ca98b01d078ad94dc03448686727833682",
+      "bytes": 9977,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "scripts/test_research_dossiers.py",
+      "sha256": "684b6570d7abc95fc1a63190684427b9373b042f452ab693bca09e49af9fbb43",
+      "bytes": 1972,
+      "category": "scripts",
+      "summary": {}
+    },
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "d4303ddc7aaf13cd813b35a6fcb072da27ad7347df668914af328704814541a2",
+      "bytes": 3003,
+      "category": "bibliography",
+      "summary": {}
+    },
+    {
+      "path": "corpus/context-assertions.json",
+      "sha256": "cc01d5fbb7b04e6df0378d407b66b7549b56014d5b74e69ca4f62f10765bc66e",
+      "bytes": 110680,
+      "category": "corpus",
+      "summary": {
+        "scope": "Metadata only; does not establish physical identity, sign readings or representative sampling.",
+        "source_id": "INSCRIBE-CH"
+      }
+    },
+    {
+      "path": "docs/RECORD-DOSSIERS.md",
+      "sha256": "dcef1b75e6b8fc1d5e715364d22d14cc588d1e25577ba7d9647d853b40192694",
+      "bytes": 133621,
+      "category": "docs",
+      "summary": {}
     }
   ],
   "scientific_results": {
@@ -146,7 +200,7 @@
       "status": "measured"
     }
   },
-  "family_report_sha256": "e17625716660da70731459252e2b1bbca429d7183640b79f0733162313148b3e",
+  "family_report_sha256": "2df078b52ad9573617efa3f00689a7b1c14ebb62bd855dd04e66580ccc0d0569",
   "implementation_sha256": "682a350d9457b1e88ff3a3c4d1263880e4fdf98e1012578580b7d2b9d877c916",
   "boundary": "Committed file integrity and attributed project records. Hashes do not establish epigraphic truth, image adequacy or independent human review. Native units stay separate; no pooled sign identities or linguistic inference."
 }

@@ -1,13 +1,16 @@
 {
   "schema_version": "1.0",
-  "repository_version": "5.2.6",
-  "checked": "2026-10-02",
-  "milestone": "EXECUTABLE_CURRENT_STATE_INTEGRITY",
+  "repository_version": "5.3.0",
+  "checked": "2026-10-05",
+  "milestone": "CONTEXT_AND_REVIEW_DOSSIERS_V1",
   "committed_evidence_counts": {
     "catalogue_identities": 331,
     "critical_readings": 5,
     "source_checked_occurrence_objects": 2,
-    "independently_reviewed_objects": 0
+    "independently_reviewed_objects": 0,
+    "review_dossiers": 331,
+    "context_objects": 26,
+    "context_assertions": 234
   },
   "scientific_results": {
     "structural_analysis": "BLOCKED",
@@ -20,7 +23,7 @@
     },
     {
       "path": "corpus/manifest.json",
-      "sha256": "26e4fe83d4844425165bd876882fde09f75d4c7fd07229b42d60e3dfd1baacdc"
+      "sha256": "182ff102fd0d784674e689d2e4ef3e2039561e456eb033f6c8ea065cb056f7ea"
     },
     {
       "path": "analysis/5.2.1_source-access-audit.json",
@@ -40,23 +43,23 @@
     },
     {
       "path": "scripts/validate_current_state.py",
-      "sha256": "1a2e6f5c182ea367de7898be1762a03acddd54b03ebd64aa6f1060b577a5d613"
+      "sha256": "f2465f2dbda59e63a8a91836814a201988fc824b5c3913ecb8dbccfc276ead9c"
     },
     {
       "path": "research/family-readiness-v1.json",
-      "sha256": "e17625716660da70731459252e2b1bbca429d7183640b79f0733162313148b3e"
+      "sha256": "2df078b52ad9573617efa3f00689a7b1c14ebb62bd855dd04e66580ccc0d0569"
     },
     {
       "path": "analysis/evidence-index-v1.json",
-      "sha256": "9ddcb93fadcae4c7bcf5223f7cd56a9ccb48a8a2fcbcce8ee5cd7dba98bce470"
+      "sha256": "f018559ea645602ef6b791afbab934af87fcb128f039e4bb1a168f285652f792"
     },
     {
       "path": "analysis/workbench-acceptance-v1.json",
-      "sha256": "45a45d1f2d0353c9346e9d2759d2e5cc4b9f8cc6568cb65ce1c13448881abc40"
+      "sha256": "ae0b56980c0ccc45b75d924d285b86cb186812083a3b5164b1af6d07e92fc143"
     },
     {
       "path": "workbench/evidence.html",
-      "sha256": "2a008c346b6233393d083796cce4c56bda32e205ca38b6c06bb44b2f44534ceb"
+      "sha256": "65a72e153d3dd027a02736200190c36ba9190d04dab9dfb1c7b3d2d0c858a5cc"
     },
     {
       "path": "research/workbench-milestone-v1.json",
@@ -101,16 +104,50 @@
     {
       "path": "research/source-inspection-2026-10-02.json",
       "sha256": "9aa2593afe4c15161cbe74892f8b9912af49b115fdcf5d79d2c29061659f653a"
+    },
+    {
+      "path": "research/record-dossiers.json",
+      "sha256": "924df12f9a6df1abd2af11f17bddc1f2f54cc7b21da3066a934aece60cf9ce2c"
+    },
+    {
+      "path": "analysis/context-coverage-v1.json",
+      "sha256": "74fc6cb84b5d8db55ad8f2f45287f4e1d6c77b008ffa0609e1940c98e0be3605"
+    },
+    {
+      "path": "scripts/research_dossiers.py",
+      "sha256": "393822929c446b9b33bb69bcba5ce8ca98b01d078ad94dc03448686727833682"
+    },
+    {
+      "path": "scripts/test_research_dossiers.py",
+      "sha256": "684b6570d7abc95fc1a63190684427b9373b042f452ab693bca09e49af9fbb43"
+    },
+    {
+      "path": "bibliography/sources.json",
+      "sha256": "d4303ddc7aaf13cd813b35a6fcb072da27ad7347df668914af328704814541a2"
+    },
+    {
+      "path": "corpus/context-assertions.json",
+      "sha256": "cc01d5fbb7b04e6df0378d407b66b7549b56014d5b74e69ca4f62f10765bc66e"
+    },
+    {
+      "path": "docs/RECORD-DOSSIERS.md",
+      "sha256": "dcef1b75e6b8fc1d5e715364d22d14cc588d1e25577ba7d9647d853b40192694"
     }
   ],
   "count_boundary": "Counts refer to committed native records only; separately authenticated upstream inputs are reported in source verification artifacts.",
   "historical_reports": "Historical versioned analyses and baseline files retain their original content versions.",
-  "summary": "Adds five printed CHIC1996 transnumerations on two Knossos medallions from public publisher pages 91 and 93, with source-image digests and exact locators. Literal X marks, hyphenated groups and numerical notation remain preserved. This H-series convenience pilot has zero independent reviews; representative and comparative experiments remain blocked.",
+  "summary": "Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. Five readings on two objects and zero independent reviews remain unchanged.",
   "source_inspection": {
     "register": "research/source-inspection-2026-10-02.json",
     "additional_page_inspected": 95,
     "additional_object_targets": 3,
     "critical_readings_added": 0,
     "rights_status": "PUBLICATION_UNRESOLVED"
+  },
+  "context_checkpoint": {
+    "coverage": "analysis/context-coverage-v1.json",
+    "dossiers": "research/record-dossiers.json",
+    "independent_reviews_added": 0,
+    "source_only": true
   }
 }

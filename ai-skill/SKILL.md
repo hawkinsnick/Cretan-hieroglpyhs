@@ -33,3 +33,6 @@ Read `ai-skill/generated/source-state.json` before substantive work. It records 
 - Five critical readings on two source-checked objects are not representative corpus coverage
 - Zero independently reviewed objects must remain explicit
 - Graphic similarity does not establish sign equivalence
+
+## Context and dossier routing
+Read `analysis/context-coverage-v1.json` and `research/record-dossiers.json` before record-level context or coverage claims. Follow native references, source IDs, locators and input digests. Separate metadata coverage from reading/occurrence coverage. Preserve literal unknowns, alternative script classifications and chronology qualifiers. Treat missing evidence as unknown. Do not upgrade source-reported catalogue links to physical identity, partial occurrences to complete transcriptions, or source closure to independent verification. Consult `docs/CONTEXT-AND-DOSSIERS.md` for the specific acquisition and rights limits.

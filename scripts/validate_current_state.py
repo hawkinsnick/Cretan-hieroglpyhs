@@ -90,6 +90,11 @@ def validate():
     validate_pilot(load('corpus/critical-readings.json'), load('analysis/chic-primary-pilot-v1.json'))
     require(load('corpus/manifest.json')['critical_corpus'] == {'readings':5,'source_checked_occurrence_objects':2,'independently_reviewed_objects':0}, 'primary pilot manifest counts drift')
     require(counts['source_checked_occurrence_objects']==2 and counts['independently_reviewed_objects']==0,'primary pilot current counts drift')
+    from research_dossiers import validate as validate_dossiers
+    validate_dossiers(R)
+    context=load('analysis/context-coverage-v1.json')
+    require(counts['review_dossiers']==context['dossier_count'], 'dossier current count drift')
+    require(counts['context_objects']==context['context_objects'] and counts['context_assertions']==context['context_assertions'], 'context current count drift')
     from validate_family_readiness import validate as validate_readiness
     validate_readiness(R)
     print(json.dumps({"status":"PASS","version":version,"json_files":len(files),"schemas":len(list((R/"schemas").glob("*.json"))),"evidence_counts":counts,"scientific_gate_claim":"UNCHANGED"}))

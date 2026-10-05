@@ -5,8 +5,8 @@
   "target_versions": {
     "Linear-A": "3.0.15",
     "Linear-B": "4.9.24",
-    "Cypro-Minoan": "5.2.8",
-    "Cretan-hieroglpyhs": "5.2.6",
+    "Cypro-Minoan": "5.3.0",
+    "Cretan-hieroglpyhs": "5.3.0",
     "Phaistos-Disc": "2.0.0-rc.3"
   },
   "members": [
@@ -105,23 +105,28 @@
     },
     {
       "repository": "Cypro-Minoan",
-      "snapshot_commit": "59615e482f08098bf3f0d02339911aa4e6ba1f25",
+      "snapshot_commit": null,
       "snapshot_version": "5.2.8",
       "native_evidence": [
         {
           "path": "occurrences/occurrences.json",
-          "sha256": "15413ef7475001b6ed9cd9cfaa5b861da5d67af984621c58342b960298c7e82f",
-          "url": "https://github.com/hawkinsnick/Cypro-Minoan/blob/59615e482f08098bf3f0d02339911aa4e6ba1f25/occurrences/occurrences.json"
+          "sha256": "eab6eedab31dca8ea74ebe4dbfbdbc3ef314222d15a7343540e16f9808ac9c8e",
+          "url": null
         },
         {
           "path": "analysis/occurrence-coverage-v1.json",
-          "sha256": "1d9b0c276c2428fbd42aa637e09b9ac2435e2928e89a7c55f708c51463bb8470",
-          "url": "https://github.com/hawkinsnick/Cypro-Minoan/blob/59615e482f08098bf3f0d02339911aa4e6ba1f25/analysis/occurrence-coverage-v1.json"
+          "sha256": "7b247bb067606e98ec3a1130434ca7dff113530a3df7786a0739e524464e3181",
+          "url": null
         },
         {
           "path": "analysis/5.2.3_tiryns-clay-ball-primary-check.json",
           "sha256": "94de8538973efb19d99a11bc91b99041f08262ab3bd348f0f2c7964590168cf0",
-          "url": "https://github.com/hawkinsnick/Cypro-Minoan/blob/59615e482f08098bf3f0d02339911aa4e6ba1f25/analysis/5.2.3_tiryns-clay-ball-primary-check.json"
+          "url": null
+        },
+        {
+          "path": "analysis/context-coverage-v1.json",
+          "sha256": "23efc2fea983c2fc30cda81585059c1bb7ce4ec4f79008e93213a7c89dd9d4fc",
+          "url": null
         }
       ],
       "metrics": {
@@ -146,23 +151,28 @@
     },
     {
       "repository": "Cretan-hieroglpyhs",
-      "snapshot_commit": "f13897149452cd303c9c8f2a860e55e762d91213",
+      "snapshot_commit": null,
       "snapshot_version": "5.2.6",
       "native_evidence": [
         {
           "path": "corpus/manifest.json",
-          "sha256": "26e4fe83d4844425165bd876882fde09f75d4c7fd07229b42d60e3dfd1baacdc",
-          "url": "https://github.com/hawkinsnick/Cretan-hieroglpyhs/blob/f13897149452cd303c9c8f2a860e55e762d91213/corpus/manifest.json"
+          "sha256": "182ff102fd0d784674e689d2e4ef3e2039561e456eb033f6c8ea065cb056f7ea",
+          "url": null
         },
         {
           "path": "corpus/critical-readings.json",
           "sha256": "f9afc20f153ee5b59743ce174cacbf922ce0db31c6c68abab8fdbcd946466122",
-          "url": "https://github.com/hawkinsnick/Cretan-hieroglpyhs/blob/f13897149452cd303c9c8f2a860e55e762d91213/corpus/critical-readings.json"
+          "url": null
         },
         {
           "path": "analysis/chic-primary-pilot-v1.json",
           "sha256": "dc21045b6adb2cbf3aede7afe51bc58745a43fab60dfa0f81d654c1f4f382829",
-          "url": "https://github.com/hawkinsnick/Cretan-hieroglpyhs/blob/f13897149452cd303c9c8f2a860e55e762d91213/analysis/chic-primary-pilot-v1.json"
+          "url": null
+        },
+        {
+          "path": "analysis/context-coverage-v1.json",
+          "sha256": "74fc6cb84b5d8db55ad8f2f45287f4e1d6c77b008ffa0609e1940c98e0be3605",
+          "url": null
         }
       ],
       "metrics": {

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "target": "PRE_EXPERT_SOURCE_EXHAUSTION",
   "dispositions": [
     {
@@ -42,7 +42,8 @@
     "phonetic_values_asserted": 0,
     "independently_reviewed_objects": 0
   },
-  "completion_assessment": "ADDITIONAL_PAGE_INSPECTED_PUBLICATION_RIGHTS_UNRESOLVED",
+  "completion_assessment": "CONTEXT_DOSSIERS_COMPLETE_SOURCE_ACQUISITION_REMAINS_OPEN",
   "qualification": "The representative acquisition target is not fabricated from restricted material. New lawful object-level evidence reopens acquisition.",
-  "latest_source_inspection": "research/source-inspection-2026-10-02.json"
+  "latest_source_inspection": "research/source-inspection-2026-10-02.json",
+  "context_milestone": "docs/CONTEXT-AND-DOSSIERS.md"
 }

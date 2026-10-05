@@ -1,9 +1,102 @@
 [
-  {"id":"CHIC1996","type":"book","authors":["Jean-Pierre Olivier","Louis Godart"],"contributors":["Jean-Claude Poursat"],"title":"Corpus Hieroglyphicarum Inscriptionum Cretae","series":"Études Crétoises 31","year":1996,"publisher":"École française d’Athènes / École française de Rome","isbn":"978-2-86958-082-4","role":"primary-catalogue"},
-  {"id":"EFA-CHIC","type":"publisher-record","title":"Corpus Hieroglyphicarum Inscriptionum Cretae","publisher":"École française d’Athènes","year":1996,"role":"bibliographic-verification"},
-  {"id":"FERRARA-MONTECCHI-VALERIO-2021","type":"article","authors":["Silvia Ferrara","Barbara Montecchi","Miguel Valério"],"title":"Rationalizing the Cretan Hieroglyphic signlist","journal":"Kadmos","volume":"60","pages":"5–32","year":2021,"doi":"10.1515/kadmos-2021-0003","role":"repertoire-reassessment"},
-  {"id":"FERRARA-2023-LOST-SIGNS","type":"article","authors":["Silvia Ferrara"],"title":"In Search of Lost Signs: A New Approach to the Issue of Writing and Non-Writing on Cretan Hieroglyphic Seals","journal":"Oxford Journal of Archaeology","year":2023,"doi":"10.1111/ojoa.12265","role":"sign-status-methodology"},
-  {"id":"FERRARA-2024-REPERTOIRES","type":"chapter","authors":["Silvia Ferrara"],"title":"Cretan Hieroglyphic Sign Repertoires: Yesterday, Today and Tomorrow","year":2024,"doi":"10.1017/9781009490122","role":"repertoire-history"},
-  {"id":"FERRARA-MONTECCHI-VALERIO-2021-ORIGINS","type":"article","authors":["Silvia Ferrara","Barbara Montecchi","Miguel Valério"],"title":"The Making of a Script: Cretan Hieroglyphic and the Quest for Its Origins","journal":"Bulletin of the American Schools of Oriental Research","volume":"386","year":2021,"doi":"10.1086/716098","role":"comparative-methodology"},
-  {"id":"JASINK-BOMBARDIERI-CHS","type":"database","authors":["Anna Margherita Jasink","Luca Bombardieri"],"title":"DBAS – CHS Cretan Hieroglyphic Seals","publisher":"University of Florence, SAGAS / @egeanLab","role":"digital-seal-corpus"}
+  {
+    "id": "CHIC1996",
+    "type": "book",
+    "authors": [
+      "Jean-Pierre Olivier",
+      "Louis Godart"
+    ],
+    "contributors": [
+      "Jean-Claude Poursat"
+    ],
+    "title": "Corpus Hieroglyphicarum Inscriptionum Cretae",
+    "series": "Études Crétoises 31",
+    "year": 1996,
+    "publisher": "École française d’Athènes / École française de Rome",
+    "isbn": "978-2-86958-082-4",
+    "role": "primary-catalogue"
+  },
+  {
+    "id": "EFA-CHIC",
+    "type": "publisher-record",
+    "title": "Corpus Hieroglyphicarum Inscriptionum Cretae",
+    "publisher": "École française d’Athènes",
+    "year": 1996,
+    "role": "bibliographic-verification"
+  },
+  {
+    "id": "FERRARA-MONTECCHI-VALERIO-2021",
+    "type": "article",
+    "authors": [
+      "Silvia Ferrara",
+      "Barbara Montecchi",
+      "Miguel Valério"
+    ],
+    "title": "Rationalizing the Cretan Hieroglyphic signlist",
+    "journal": "Kadmos",
+    "volume": "60",
+    "pages": "5–32",
+    "year": 2021,
+    "doi": "10.1515/kadmos-2021-0003",
+    "role": "repertoire-reassessment"
+  },
+  {
+    "id": "FERRARA-2023-LOST-SIGNS",
+    "type": "article",
+    "authors": [
+      "Silvia Ferrara"
+    ],
+    "title": "In Search of Lost Signs: A New Approach to the Issue of Writing and Non-Writing on Cretan Hieroglyphic Seals",
+    "journal": "Oxford Journal of Archaeology",
+    "year": 2023,
+    "doi": "10.1111/ojoa.12265",
+    "role": "sign-status-methodology"
+  },
+  {
+    "id": "FERRARA-2024-REPERTOIRES",
+    "type": "chapter",
+    "authors": [
+      "Silvia Ferrara"
+    ],
+    "title": "Cretan Hieroglyphic Sign Repertoires: Yesterday, Today and Tomorrow",
+    "year": 2024,
+    "doi": "10.1017/9781009490122",
+    "role": "repertoire-history"
+  },
+  {
+    "id": "FERRARA-MONTECCHI-VALERIO-2021-ORIGINS",
+    "type": "article",
+    "authors": [
+      "Silvia Ferrara",
+      "Barbara Montecchi",
+      "Miguel Valério"
+    ],
+    "title": "The Making of a Script: Cretan Hieroglyphic and the Quest for Its Origins",
+    "journal": "Bulletin of the American Schools of Oriental Research",
+    "volume": "386",
+    "year": 2021,
+    "doi": "10.1086/716098",
+    "role": "comparative-methodology"
+  },
+  {
+    "id": "JASINK-BOMBARDIERI-CHS",
+    "type": "database",
+    "authors": [
+      "Anna Margherita Jasink",
+      "Luca Bombardieri"
+    ],
+    "title": "DBAS – CHS Cretan Hieroglyphic Seals",
+    "publisher": "University of Florence, SAGAS / @egeanLab",
+    "role": "digital-seal-corpus"
+  },
+  {
+    "id": "INSCRIBE-CH",
+    "type": "database",
+    "title": "INSCRIBE Cretan Hieroglyphic 3D object catalogue",
+    "publisher": "ERC INSCRIBE, University of Bologna",
+    "url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+    "role": "attributed-object-metadata",
+    "rights": "Factual metadata only. 3D models and images are excluded; source copyright retained. No blanket data license asserted.",
+    "lineage": "References CHIC/CMS; not an independent reading witness."
+  }
 ]

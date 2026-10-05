@@ -1,6 +1,6 @@
 {
   "corpus": "Cretan Hieroglyphic Open Corpus",
-  "version": "5.2.6",
+  "version": "5.3.0",
   "stability": "critical-corpus-production",
   "canonical_catalogue": "CHIC1996",
   "catalogue_spine": {
@@ -21,5 +21,12 @@
   "research_boundaries": "docs/RESEARCH_BOUNDARIES.md",
   "warning": "Current manifest counts committed native evidence; historical audit snapshots retain their original versions.",
   "family_evidence_baseline": "analysis/family-evidence-baseline-v1.json",
-  "representative_pilot": "research/representative-pilot-step2.json"
+  "representative_pilot": "research/representative-pilot-step2.json",
+  "context_layer": {
+    "path": "corpus/context-assertions.json",
+    "objects": 26,
+    "assertions": 234,
+    "reading_admission": false
+  },
+  "review_dossiers": "research/record-dossiers.json"
 }

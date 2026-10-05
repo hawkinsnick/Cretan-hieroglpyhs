@@ -23,3 +23,9 @@ Corrective integrity release: executable validation, CI, hashing and rights clar
 ## 4.0.0
 Auditable release contracts, dimensional coverage, research-readiness thresholds and reproducibility policy.
 
+
+## 5.3.0 — context and review dossiers
+
+Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. Five readings on two objects and zero independent reviews remain unchanged.
+
+Adds source-reference closure checks, full dossier/coverage replay and hostile tests for orphan sources, duplicate identities and metadata-to-reading promotion. Existing scientific gates retain their prior state.

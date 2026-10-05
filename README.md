@@ -8,9 +8,9 @@ Researchers using ChatGPT, Claude, Gemini, or another capable model can provide 
 
 For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
 
-## Current status — 5.2.6
+## Current status — 5.3.0
 
-Adds five printed CHIC1996 transnumerations on two Knossos medallions from public publisher pages 91 and 93, with source-image digests and exact locators. Literal X marks, hyphenated groups and numerical notation remain preserved. This H-series convenience pilot has zero independent reviews; representative and comparative experiments remain blocked.
+Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. Five readings on two objects and zero independent reviews remain unchanged.
 
 Family contract 1.2 aligns all five projects with [Phaistos Disc 1.6.0](https://github.com/hawkinsnick/Phaistos-Disc/releases/tag/v1.6.0). The shared readiness report preserves native sampling units, source rights and blocked linguistic controls. It authorizes no pooling or linguistic relationship claim. See [`research/family-readiness-v1.json`](research/family-readiness-v1.json).
 
@@ -45,3 +45,9 @@ Download the research workbench ZIP, extract it, and open [workbench/evidence.ht
 ### Research workbench 1.1
 
 Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cretan-hieroglpyhs/releases/tag/research-workbench-v1.1.0), extract it, and open `workbench/evidence.html`. It adds snapshot-bound inspection collections and includes the immutable release correction tracker. The Disc explorer also presents readable scenario comparisons. This engineering release grants no scientific acceptance.
+
+## Context and review dossiers — 5.3.0
+
+Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. Five readings on two objects and zero independent reviews remain unchanged.
+
+Read [the researcher guide](docs/CONTEXT-AND-DOSSIERS.md), [the coverage audit](analysis/context-coverage-v1.json) and [record dossiers](research/record-dossiers.json). Run `python scripts/research_dossiers.py` to check deterministic replay. Metadata coverage does not imply reading coverage or representative sampling.

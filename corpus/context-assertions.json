@@ -1,0 +1,2653 @@
+{
+  "schema_version": "1.0",
+  "source_id": "INSCRIBE-CH",
+  "scope": "Metadata only; does not establish physical identity, sign readings or representative sampling.",
+  "records": [
+    {
+      "object_id": "CHIC-016",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+      "html_sha256": "e6c56a4b7ef16aaeeb2ea7214d84f13037c4436753dfb7b4eb18d1d4579f5c50",
+      "html_bytes": 19551,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Nodule",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Crescent",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-T 170",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Knossos, Palace, Hieroglyphic Deposit",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II (or MM III)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#016 KN Ha (03) 01 (CHIC, p. 76-77)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_KN_Ha_(03)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-048",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+      "html_sha256": "7e4a1d92063ba32e8446faba924a5b96ff30863f6f7b841e311efb0f9f606d45",
+      "html_bytes": 20469,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Three-sided bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π-N 1303",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Knossos, Palace, Hieroglyphic Deposit",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II (or MM III)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic or Linear A",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#048 KN Hg 01 (CHIC, p. 98-99)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hg_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-058",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+      "html_sha256": "0b13e7d6907026b1f1d907cd911ca2fe5fe07ef91533fa9253d4dcaf1b553d13",
+      "html_bytes": 19457,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π-N 1287",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Knossos, Palace, Hieroglyphic Deposit",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II (or MM III)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#058 KN Hh (04) 03 (CHIC, p. 111)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(04)_03.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-066",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+      "html_sha256": "24a380c8a28c891f15fd22f2a612a3f5b00a4faf42018d223079df6f9a92f572",
+      "html_bytes": 18975,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π-N 1292",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Knossos, Palace, Hieroglyphic Deposit",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II (or MM III)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#066 KN Hh (08) 02 (CHIC, p. 120-121)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_KN_Hh_(08)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-068",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+      "html_sha256": "49e05a9dcce9cbdf00c9365512bd33a0e291206e233d3a4d83c78aba684b48ca",
+      "html_bytes": 20444,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Tablet",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Elongated/oblong tablet",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π-N 1268",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Knossos, Palace, Hieroglyphic Deposit",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II (or MM III)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic or Linear A",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#068 KN Hi 01 (CHIC, p. 122-123)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_KN_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-085",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+      "html_sha256": "0ecb22c54de2f7c1584781e971efa4097cc5a98b60a3eb73673ff4817e6c3e03",
+      "html_bytes": 19455,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Two-sided bar (\"lame à 2 faces\")",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π-N 1680",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, Quartier Mu",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#085 MA/M Hf (01) 01 (CHIC, p. 136-137)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(01)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-089",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+      "html_sha256": "7e982d0ea0c9bd3e1bff290a1a65b2a39945d687c2d5ae1b4838bdbdd9a0a444",
+      "html_bytes": 18955,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Two-sided bar (\"lame à 2 faces\")",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π-N 1676",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, Quartier Mu",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#089 MA/M Hf (04) 01",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_bar_MA_M_Hf_(04)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-122",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+      "html_sha256": "3a9451ec3b47fa3e5cb0a1e2abeb2cb12e1e05d8fbd12c5086c827f20c0afd19",
+      "html_bytes": 21079,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Tablet",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Elongated/oblong tablet",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π-N 1",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Phaistos, stray find",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II or MM III?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic or Linear A",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#122 PH Hi 01 (CHIC, p. 182-183)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_tablet_PH_Hi_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-127",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+      "html_sha256": "0c40f289d8f1c45a191dfcfe5b57fa289b536cf818676b5185ad4449edf966b2",
+      "html_bytes": 19763,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Nodule",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Nodulus",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-T 1053",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, Quartier Mu",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#127 MA/M I (1/1) 02 (CHIC, p. 188-189)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_nodule_MA_M_I_(1_1)_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-180",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+      "html_sha256": "ac106fc3ec39ca83cc28e65677313f5629cabb3ae8454b949de0978638bd4184",
+      "html_bytes": 20225,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Stalk-signet (\"Petschaft\")",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Steatite stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "ΣΓ 3454",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Unknown",
+          "status": "source_reported_unknown",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#180 CR S (1/1) 01 (CHIC, p. 216-217)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(1_1)_01_(CMS_III_103).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-197",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+      "html_sha256": "0ab324946f0ecb66d51dd6337f9cd31777a33c1179acd911c340c209f2e56a2a",
+      "html_bytes": 19583,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Petschaft",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Steatite stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-K 2390",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, Quartier Mu",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#197 MA/M S (1/1) 01 (CHIC, p. 224-225)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_M_S_(1_1)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-202",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+      "html_sha256": "5defb98aabd21548eadb1437715823b5a18c6f82c136c4f36d9f4e93f8def26d",
+      "html_bytes": 20138,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Discoid",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Animal bone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-K 2245",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Archanes, Phourni, Funerary building 6, room 3",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM IA",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#202 ARKH S (2/2) 01 (CHIC, p. 226-227)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_2)_01_(CMS_II,1_394).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-207",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+      "html_sha256": "fc4e39b3f2b93f828570b92c8e07c1d1fd691dee00ffbd5a597f9a7b77fb00ff",
+      "html_bytes": 20143,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Wedge-shaped",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Hippopotamus ivory",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-K 1442",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, cemetery of Chrysolakkos",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#207 MA/N S (2/2) 01 (CHIC, p. 228-229)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_N_S_(2_2)_01_(CMS_II,1_420).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-236",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+      "html_sha256": "1c4124ac7629b6a658de7143441923fb24a2a5b71f66c2d8b7e0e31043ec1623",
+      "html_bytes": 20096,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Three-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Steatite stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-K 1304",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, Quartier Gamma",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#236 MA/V S (1/3) 01 (CHIC, p. 244-245)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(1_3)_01_(CMS_II,2_078).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-252",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+      "html_sha256": "09ddd874ae38717cf1c2d35479f3b2fd0522c39bcfb9e210d1a14767699b7b9e",
+      "html_bytes": 20260,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Three-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Animal bone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-K 2266",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Archanes, Phourni, Funerary building 6, room 3",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM IA",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#252 ARKH S (3/3) 02 (CHIC, p. 252-253)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(3_3)_02_(CMS_II,1_393).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-288",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+      "html_sha256": "1792a9a9e2a63ec3e2490adb5549d6fec08de9c0e6f19502c783e8a7fefaa6c2",
+      "html_bytes": 19810,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Steatite stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-K 2184",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#288 MA/V S (3/4) 01 (CHIC, p. 272-273)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_V_S_(3_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-291",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+      "html_sha256": "7b83905242214cb7b677e52daf125c187ab73ecd5c38e5713983e50493a3f97e",
+      "html_bytes": 20300,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Steatite stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-K 1269",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Unknown",
+          "status": "source_reported_unknown",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#291 CR S (3/4) 01 (CHIC, p. 274-275)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(3_4)_01_(CMS_II,2_315).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-293",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+      "html_sha256": "789928c108f7d37456764c9ae0a398f8e077011c2c8c27aebebb297a0644c8dd",
+      "html_bytes": 21010,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Jasper stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-Κ 1694",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Adromyli Sitias, tholos toumb E",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#293 ADROMILI S (4/4) 01 (CHIC, p. 276-277)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_ADROMILI_S_(4_4)_01_(CMS_II,2_256).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-295",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+      "html_sha256": "f007c77da2be24f02f5038e5e1610678282d010eb81249ac853c309082690baf",
+      "html_bytes": 20716,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Jasper stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-Κ 1537",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Unknown",
+          "status": "source_reported_unknown",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#295 CR S (4/4) 02 (CHIC, p. 276-277)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_CR_S_(4_4)_02_(CMS_II,2_316).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-306",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+      "html_sha256": "f49a9675eccb4f1243bcc35b42ec2ca0b6dcf52ee185094284be8969d5468aa7",
+      "html_bytes": 20349,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Gold",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-Κ 3325",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#306 MA S (4/4) 01 (CHIC, p. 284-285)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_MA_S_(4_4)_01_(CMS_III_234).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-309",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+      "html_sha256": "fdc0ecb9c105cc8e07e210eec82011cbd765a1100a9d5a965b7d0acd674f7a20",
+      "html_bytes": 20441,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Four-sided prism",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Jasper stone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-Κ 2595",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Myrtos-Pyrgos, surface find in area of trench A6",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#309 PYR S (4/4) 01 (CHIC, p. 286-287)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_PYR_S_(4_4)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-313",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+      "html_sha256": "50f10b3525ef3f5db4d2479a0685505cfdeb085d5617a700302978f8c7453b91",
+      "html_bytes": 19696,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Cube",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Ivory",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-Κ 2850",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Moni Odigitria",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM I?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#313 MONI OD. S (2/6) 01 (CHIC, p. 288-289)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_MONI_OD._S_(2_6)_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-315",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+      "html_sha256": "33a1977eb9501608e8d1a6e170dd4969031e2bb2880b59d7bf8bcbbb19107a40",
+      "html_bytes": 18908,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Seal",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Fourtheen seal face bar",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Animal bone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Σ-Κ 2260",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Archanes, Phourni, Funerary building 6, room 3",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM IA",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#315 ARKH S (2/14) 01 (CHIC, p. 290-291)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Seal_ARKH_S_(2_14)_01_(CMS_II,1_391).php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-316",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+      "html_sha256": "26820ec9702bd64a584eddabe60001837c6a10b6ba2ba82b35992a31b21160ed",
+      "html_bytes": 19404,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Vessel",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Chamaizi pot",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π 18382",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, Quartier Mu",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#316 MA/M Yb 01 (CHIC, p. 294-295)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_M_Yb_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-324",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+      "html_sha256": "74813d7e1b12017b6ca1f5c5b4f40c499e8d6ceec60135940af4c80d0435aed8",
+      "html_bytes": 19402,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Vessel",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "Chamaizi pot",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Clay",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Π 11149",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, Quartier Nu",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#324 MA/N Yb 02 (CHIC, p. 304-305)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Clay_vessel_MA_N_Yb_02.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    },
+    {
+      "object_id": "CHIC-328",
+      "source_id": "INSCRIBE-CH",
+      "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+      "html_sha256": "cfbeaa2971d00eadcd39231b071a6e99525594ae94add58daaa57964ece75bc2",
+      "html_bytes": 19309,
+      "checked": "2026-10-05",
+      "assertions": [
+        {
+          "field": "object_type",
+          "value": "Receptacle",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Document type",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "object_subtype",
+          "value": "non-portable stone libation table",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Sub-type",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "material",
+          "value": "Limestone",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Material",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "repository",
+          "value": "Heraklion Archaeological Museum",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Museum",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "inventory_number",
+          "value": "Λ E-415",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inventory number",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "findspot",
+          "value": "Malia, stray find",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Find spot",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "chronology",
+          "value": "MM II or III?",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Chronology",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "script_classification",
+          "value": "Cretan Hieroglyphic",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Script",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        },
+        {
+          "field": "edition_identifier",
+          "value": "#328 MA/V Ya 01 (CHIC, p. 314-315)",
+          "status": "source_reported",
+          "source_id": "INSCRIBE-CH",
+          "locator": "General information / Inscription",
+          "source_url": "https://www.inscribercproject.com/Stone_receptacle_MA_V_Ya_01.php",
+          "uncertainty": "source_literal_qualifiers_preserved"
+        }
+      ],
+      "reading_admitted": false,
+      "independent_review": false,
+      "rights": {
+        "scope": "Attributed factual catalogue metadata only",
+        "images_included": false,
+        "models_included": false,
+        "source_policy_url": "https://www.inscribercproject.com/Cretan_Hieroglyphic.php",
+        "metadata_license": "NOASSERTION",
+        "source_terms_retained": true
+      }
+    }
+  ],
+  "excluded_pages": [
+    {
+      "url": "https://www.inscribercproject.com/Seal_CMS_II,1_064.php",
+      "reason": "NO_EXPLICIT_CHIC_ID",
+      "reported_inventory": "Σ-K 492",
+      "reported_script": "-"
+    },
+    {
+      "url": "https://www.inscribercproject.com/Seal_CMS_II,2_221.php",
+      "reason": "NO_EXPLICIT_CHIC_ID",
+      "reported_inventory": "Σ-K 1558",
+      "reported_script": "-"
+    },
+    {
+      "url": "https://www.inscribercproject.com/Seal_VRY_S_(4_4)_01.php",
+      "reason": "NO_EXPLICIT_CHIC_ID",
+      "reported_inventory": null,
+      "reported_script": "Cretan Hieroglyphic"
+    }
+  ]
+}
