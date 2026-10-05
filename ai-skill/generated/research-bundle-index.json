@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "96d7ef877bd88ea0a478679a64722187182c6b6b",
-  "generated_at_utc": "2026-10-03T03:38:39+00:00",
+  "source_commit": "08f442dab3ebd1c36114b8973394470d950b22e9",
+  "generated_at_utc": "2026-10-05T01:28:06+00:00",
   "canonical_repository": true,
   "contract": {
     "corpus_is_authoritative": true,
@@ -14,10 +14,46 @@
   },
   "artifacts": [
     {
+      "role": "readable_dossiers",
+      "path": "docs/RECORD-DOSSIERS.md",
+      "sha256": "dcef1b75e6b8fc1d5e715364d22d14cc588d1e25577ba7d9647d853b40192694",
+      "bytes": 133621
+    },
+    {
+      "role": "record_dossiers",
+      "path": "research/record-dossiers.json",
+      "sha256": "924df12f9a6df1abd2af11f17bddc1f2f54cc7b21da3066a934aece60cf9ce2c",
+      "bytes": 497956
+    },
+    {
+      "role": "context_coverage",
+      "path": "analysis/context-coverage-v1.json",
+      "sha256": "74fc6cb84b5d8db55ad8f2f45287f4e1d6c77b008ffa0609e1940c98e0be3605",
+      "bytes": 6725
+    },
+    {
+      "role": "context_assertions",
+      "path": "corpus/context-assertions.json",
+      "sha256": "cc01d5fbb7b04e6df0378d407b66b7549b56014d5b74e69ca4f62f10765bc66e",
+      "bytes": 110680
+    },
+    {
+      "role": "bibliography",
+      "path": "bibliography/sources.json",
+      "sha256": "d4303ddc7aaf13cd813b35a6fcb072da27ad7347df668914af328704814541a2",
+      "bytes": 3003
+    },
+    {
+      "role": "context_guide",
+      "path": "docs/CONTEXT-AND-DOSSIERS.md",
+      "sha256": "18c98140b53c04b29f08aad59acfaf79473124127762b6cf4e2d84c5cd53951c",
+      "bytes": 1759
+    },
+    {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "f0892e9909c8c10aa3bbaf02feb8b504170c2c1b53904d948b2fe5c532b62482",
-      "bytes": 4565
+      "sha256": "827569a9ef2fa4ce944c8f1a042ef8eac398a7178644edfd47f18131ebe512a9",
+      "bytes": 5853
     },
     {
       "role": "source_inspection",
@@ -34,8 +70,8 @@
     {
       "role": "manifest",
       "path": "corpus/manifest.json",
-      "sha256": "26e4fe83d4844425165bd876882fde09f75d4c7fd07229b42d60e3dfd1baacdc",
-      "bytes": 901
+      "sha256": "182ff102fd0d784674e689d2e4ef3e2039561e456eb033f6c8ea065cb056f7ea",
+      "bytes": 1100
     },
     {
       "role": "critical_readings",
@@ -46,14 +82,14 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "9a25ed3ab2619a76392d12c582493180be01a2ed98e08c90b669d54c8e93bae4",
-      "bytes": 2607
+      "sha256": "4dac58644cdf582fd676fc4bbe6aca6a55e6c6bc97145bd2035d40668e5bbe28",
+      "bytes": 2988
     },
     {
       "role": "pre_expert_source_exhaustion",
       "path": "research/pre-expert-source-exhaustion.json",
-      "sha256": "2988d1c32da4a7ad1c2f1ecc4aaffce3200dee83f4bfb17812fd40a3ade675ed",
-      "bytes": 2540
+      "sha256": "60c9aea81b59b8ba9f8bd95e4398c9c5149ebe76e42dacec7d358e8200ca4e2c",
+      "bytes": 2597
     },
     {
       "role": "notice",
