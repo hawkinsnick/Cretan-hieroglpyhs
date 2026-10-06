@@ -51,3 +51,7 @@ Download the [research workbench 1.1 package](https://github.com/hawkinsnick/Cre
 Adds 234 source-attributed contextual assertions on 26 CHIC entries from 29 INSCRIBE catalogue pages; three unnumbered pages remain excluded source leads. All 331 identities have reproducible review dossiers. Script alternatives, unknown findspots and chronology qualifiers remain literal. Five readings on two objects and zero independent reviews remain unchanged.
 
 Read [the researcher guide](docs/CONTEXT-AND-DOSSIERS.md), [the coverage audit](analysis/context-coverage-v1.json) and [record dossiers](research/record-dossiers.json). Run `python scripts/research_dossiers.py` to check deterministic replay. Metadata coverage does not imply reading coverage or representative sampling.
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser uses only the explicit rights/provenance-reviewed allowlist in `research/browser-sources.json`, including the CHIC catalogue spine, context, critical readings, graph observations, core sign registry, disagreements and record dossiers. Never recursively ingest restricted/raw upstream material. Browser display does not establish decipherment, source independence or expert validation.
