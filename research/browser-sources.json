@@ -1,0 +1,14 @@
+{
+  "format": "corpus-family-browser-config-v1",
+  "project": "Cretan Hieroglyphs",
+  "sources": [
+    "corpus/chic-catalogue-spine.json",
+    "corpus/context-assertions.json",
+    "corpus/critical-readings.json",
+    "corpus/graph-observations.json",
+    "signs/chic-core-sign-registry.json",
+    "research/disagreements.json",
+    "research/record-dossiers.json"
+  ],
+  "boundary": "Only explicitly allowlisted committed repository data are embedded. Browser display preserves uncertainty/disagreement and does not establish decipherment, source independence, or expert validation; source/record rights remain controlling."
+}
