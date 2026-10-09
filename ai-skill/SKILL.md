@@ -40,3 +40,7 @@ Read `analysis/context-coverage-v1.json` and `research/record-dossiers.json` bef
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser uses only the explicit rights/provenance-reviewed allowlist in `research/browser-sources.json`, including the CHIC catalogue spine, context, critical readings, graph observations, core sign registry, disagreements and record dossiers. Never recursively ingest restricted/raw upstream material. Browser display does not establish decipherment, source independence or expert validation.
+
+
+## Fleet EpiDoc and identity graph gates
+Read `analysis/epidoc-interoperability-audit.json` and `research/identity-graph.json`. EpiDoc serialization must preserve sparse reading coverage, alternative script classifications, writing-versus-iconographic uncertainty and source lineage. Catalogue identity is not transcription verification. The 96-class sign registry carries no native phonetic values, and graphic resemblance never creates a cross-script identity assertion.
