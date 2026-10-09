@@ -1,0 +1,37 @@
+{
+  "automatic_admission": false,
+  "decisions": {
+    "language_or_script_classification": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "object_identity": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "reading_and_layout": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "reuse_rights": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "source_independence": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "uncertainty": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    }
+  },
+  "evidence_fingerprint": "a9049cf19482d4c44e93b63ab82a66e5ad549b3a59f6cf532408bc097eab4f63",
+  "inspected_evidence": [],
+  "record_key": null,
+  "repository": "hawkinsnick/Cretan-hieroglpyhs",
+  "reviewed_on": null,
+  "reviewer": null,
+  "schema_version": "1.0",
+  "source_record_sha256": null
+}
