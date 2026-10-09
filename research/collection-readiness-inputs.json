@@ -1,0 +1,27 @@
+{
+  "native_review_links": [
+    "LICENSING.md"
+  ],
+  "public_payload_rule": "Identifiers and source pointers only; no new transcriptions or source images. Restricted A/B derivatives stay local.",
+  "record_sets": [
+    {
+      "id_key": "id",
+      "name": "CHIC-spine",
+      "path": "corpus/chic-catalogue-spine.json",
+      "pointer": "",
+      "unit": "catalogue_identity"
+    }
+  ],
+  "repository": "hawkinsnick/Cretan-hieroglpyhs",
+  "schema_version": "1.0",
+  "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
+  "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
+  "source_files": [
+    "analysis/coverage.json",
+    "analysis/current-status.json",
+    "research/acquisition-queue.json",
+    "research/pre-expert-maximum.json",
+    "research/pre-expert-source-exhaustion.json",
+    "research/source-inspection-2026-10-02.json"
+  ]
+}
